@@ -1,0 +1,23 @@
+## Data Cleanup & Analysis
+
+Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
+
+* The sources of data that you will extract from.
+
+zip code data = type: dataset, src: https://data.beta.nyc/dataset/
+top hotels = type: website, src: https://www.businessinsider.com/best-hotels-new-york-city 
+yellow pages restaurants = type: dataset, src: https://www.kaggle.com/PromptCloudHQ/restaurants-on-yellowpagescom
+airbnb data = type: dataset, src: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+population data (NY census): type: dataset, src: https://opendata.cityofnewyork.us/data/
+
+* The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+
+We used all of this - refer to jupyter notebook
+
+* The type of final production database to load the data into (relational or non-relational).
+
+relational - see jupyter notebook
+
+* The final tables or collections that will be used in the production database.
+
+see jupyter notebook

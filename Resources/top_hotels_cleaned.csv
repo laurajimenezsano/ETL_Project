@@ -1,6 +1,6 @@
-Hotel_Name,Lat,Lon,Zip_Code,borough,neighborhood,Census_Year,Population
-"Gild Hall, a Thompson Hotel",40.7079177,40.7079177,10038,Manhattan,Lower Manhattan,2018.0,60936.311760000004
-"The Beekman, a Thompson Hotel",40.7112134,40.7112134,10038,Manhattan,Lower Manhattan,2018.0,60936.311760000004
-Moxy East Village,40.7316,40.7316,10003,Manhattan,Lower East Side,2019.0,167128.0
-Sister City New York,40.7219229,40.7219229,10002,Manhattan,Lower East Side,2019.0,167128.0
-Loews Regency New York Hotel,40.7645507,40.7645507,10065,Manhattan,Upper East Side,2019.0,216874.0
+Hotel_Name,Lat,Lon,Zip_Code
+"Gild Hall, a Thompson Hotel",40.7079177,40.7079177,10038
+"The Beekman, a Thompson Hotel",40.7112134,40.7112134,10038
+Moxy East Village,40.7316,40.7316,10003
+Sister City New York,40.7219229,40.7219229,10002
+Loews Regency New York Hotel,40.7645507,40.7645507,10065
