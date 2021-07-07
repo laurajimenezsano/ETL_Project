@@ -1,427 +1,174 @@
-Unique_id,Name,Street,City,State,Categories,Zip_Code
-e64c7471b73e44fc6e6a50e21ae25cac,Pasquale Rigoletto Restaurant,2311 Arthur Ave,Bronx,NY,"Family Style Restaurants, Italian Restaurants, Fine Dining Restaurants, Restaurants",10458
-2ecbf6dcad95243db511c56ae036fc1e,Tout-VA-Bien Restaurant,311 W 51st St,New York,NY,"Continental Restaurants, French Restaurants, Family Style Restaurants, Restaurants",10019
-0f3042dbd9a1ae052b9b38d547d10fef,Organique,110 E 23rd St,New York,NY,"American Restaurants, Take Out Restaurants, Sandwich Shops, Hamburgers & Hot Dogs, Bagels, Restaurants",10010
-5525a8423a9dbb83bdffb4f287e6a608,U Like,4926 Broadway,New York,NY,"Chinese Restaurants, Family Style Restaurants, Seafood Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10034
-dd3ef1193777e485495c61ef45266bfe,Ogawa Cafe,36 E 4th St,New York,NY,"Sushi Bars, Japanese Restaurants, Asian Restaurants, Take Out Restaurants, Family Style Restaurants, Restaurants",10003
-c64e37c482c8606726971423aa2dafb5,Goodburger,636 Lexington Ave,New York,NY,"American Restaurants, Take Out Restaurants, Hamburgers & Hot Dogs, Breakfast, Brunch & Lunch Restaurants, Restaurants",10022
-a44f0eab633ae805e1a70640356abc90,Circle West Diner & Cafe,313 W 57th St,New York,NY,"Family Style Restaurants, Take Out Restaurants, American Restaurants, Breakfast, Brunch & Lunch Restaurants, Caterers, Restaurants",10019
-da862b17b17917bae42efc893ae1ae68,Townhouse Diner,696 2nd Ave,New York,NY,"Coffee Shops, Italian Restaurants, Family Style Restaurants, American Restaurants, Sandwich Shops, Hamburgers & Hot Dogs, Health Food Restaurants, Restaurants",10016
-808d5f307cee688bb368230a4b5e26de,Beacon Wines & Spirits,2120 Broadway,New York,NY,"Wine, Liquor Stores, Restaurants",10023
-722b2d6911dd4a1a5f30254e7e3d3d2f,America,9 E 18th St,New York,NY,"American Restaurants, Bars, Restaurants",10003
-8b22fd6266cd988a06056ff312a3c2b7,Hell's Kitchen,679 9th Ave,New York,NY,"Mexican Restaurants, Bar & Grills, Breakfast, Brunch & Lunch Restaurants, Latin American Restaurants, Restaurants",10036
-cd52b968ceb960b5cddeb9b92d7fe5ff,Papasito Mexican Grill,4761 Broadway,New York,NY,"Mexican Restaurants, Bar & Grills, Latin American Restaurants, Restaurants",10034
-efc924bbc4eaee5a85f1ff156403d7de,Q2 Thai,788 9th Ave Frnt A,New York,NY,"Thai Restaurants, Asian Restaurants, Take Out Restaurants, Family Style Restaurants, Restaurants",10019
-46b292f8111373ac9c543363db217964,Windows On India Restaurant,97 1st Ave,New York,NY,"Indian Restaurants, Asian Restaurants, Bars, Breakfast, Brunch & Lunch Restaurants, Restaurants",10003
-2c77ab027ad808cb4dc1c84ba0876d52,Quantum Leap Natural Foods Restaurant,203 1st Ave,New York,NY,"Family Style Restaurants, Restaurants",10003
-ba60b1a14ebe21684b52788f72f9f38a,Ii Punto Ristorante,509 9th Ave,New York,NY,"Italian Restaurants, Restaurants",10018
-1ff0cbe766b1524c8e3eabeefc9613a3,Fuji Japanese Restaurant,238 W 56th St,New York,NY,"Japanese Restaurants, Take Out Restaurants, Chinese Restaurants, Sushi Bars, Thai Restaurants, Restaurant Delivery Service, Caterers, Asian Restaurants, Mongolian Restaurants, Family Style Restaurants, Restaurants",10019
-b0b6a377d04bf72cf3a3865d3d171f4e,Devi,8 E 18th St,New York,NY,"Indian Restaurants, Asian Restaurants, Middle Eastern Restaurants, Take Out Restaurants, Caterers, Restaurants",10003
-05be9c55fccd39d14284b9572a6b4770,Nanni's Restaurant,146 E 46th St,New York,NY,"Family Style Restaurants, Italian Restaurants, Mediterranean Restaurants, Restaurants",10017
-6e43511aaffea8cb44882c3b85a9e9b6,Robert's Steakhouse,603 W 45th St,New York,NY,"Night Clubs, Adult Entertainment, Restaurants",10036
-4219c502dfdbaca94f851ea00dd17bba,United Sea Food Corp,3835 9th Ave,New York,NY,"Seafood Restaurants, Fish & Seafood Markets, Restaurants",10034
-ccca160be08c3c7d37536d7dcfb777f8,Lolita's,57 Malcolm X Blvd,New York,NY,"Mexican Restaurants, Take Out Restaurants, Caterers, Family Style Restaurants, Latin American Restaurants, Restaurants",10026
-4f63708ee8bb6492c067aeef95cc07f8,Ravagh Persian Grill,11 E 30th St Frnt 1,New York,NY,"Mediterranean Restaurants, Family Style Restaurants, Restaurants",10016
-55571b29b6a9e2218df453059818eef1,Sharaku,14 Stuyvesant St,New York,NY,"Japanese Restaurants, Asian Restaurants, Restaurants",10003
-7a630e107242b3dc50f600036b090192,Babylon Hookah Bar & Lounge,208 E 34th St,New York,NY,"Cocktail Lounges, Bars, Mediterranean Restaurants, Middle Eastern Restaurants, Restaurants",10016
-e13ebcde48a64a5be397ae0eca813a95,Spoons Squared INC,235 E 53rd St,New York,NY,"Seafood Restaurants, Restaurants",10022
-868df6f97e052752fd9fd0dcbafa6eed,Mj Armstrongs,329 1st Ave,New York,NY,"American Restaurants, Restaurants",10003
-cc60b05dd5944308f05d072ac85e52e9,Mc Faddens Restaurant & Bar,800 2nd Ave,New York,NY,"American Restaurants, Bars, Family Style Restaurants, Take Out Restaurants, Caterers, Brew Pubs, Sports Bars, Restaurants",10017
-7609845a5611ae487ef3615552da6606,Metro Diner,2641 Broadway Ste 1,New York,NY,"American Restaurants, Take Out Restaurants, Caterers, Coffee Shops, Sandwich Shops, Hamburgers & Hot Dogs, Health Food Restaurants, Chinese Restaurants, Asian Restaurants, Restaurants",10025
-286b5c9fbbb6a2b6e45f3ef212813f12,Bukhara Grill (indian Spice Rave),217 E 49th St,New York,NY,"Indian Restaurants, Caterers, Take Out Restaurants, Bar & Grills, Middle Eastern Restaurants, Asian Restaurants, Vegetarian Restaurants, Health Food Restaurants, Restaurants",10017
-589f5521c6932fbd15fdccfd093faa56,Aangan,2701 Broadway,New York,NY,"Indian Restaurants, Middle Eastern Restaurants, Asian Restaurants, Breakfast, Brunch & Lunch Restaurants, Take Out Restaurants, Caterers, Restaurants",10025
-edfd4ecbb0153aafcec20e853c532e13,Morton's The Steakhouse,551 E 5th St,New York,NY,"Steak Houses, Restaurants",10009
-f1ecc17a18b77d160b612fdd66e3f244,Uskudar Turkish Restaurant,1405 2nd Ave,New York,NY,"Middle Eastern Restaurants, Mediterranean Restaurants, Health Food Restaurants, Family Style Restaurants, Take Out Restaurants, Caterers, Asian Restaurants, Restaurants",10021
-17e84e3ed5a973a08c944c3406ef3b5d,Megu Midtown,845 United Nations Plz,New York,NY,"Japanese Restaurants, Asian Restaurants, Sushi Bars, Seafood Restaurants, Restaurants",10017
-ce655f6cea9329b5d8293003838dad40,Horus Cafe & Kebab House,93 Avenue B,New York,NY,"Hookah Bars, Mediterranean Restaurants, African Restaurants, Middle Eastern Restaurants, Restaurants",10009
-ac1cb89c2d8803b7e13813d135443b1e,The Cardinal Restaurant,234 E 4th St,New York,NY,"Barbecue Restaurants, Take Out Restaurants, Soul Food Restaurants, Family Style Restaurants, Restaurants",10009
-47b139741af80fd1fe52f444fb2fb21a,The Sunburnt Calf,226 W 79th St,New York,NY,"Take Out Restaurants, American Restaurants, Bar & Grills, Breakfast, Brunch & Lunch Restaurants, Restaurant Delivery Service, Restaurants",10024
-42570d9c6aabb059a92e411f13cfea60,Prosperity Dumpling,46 Eldridge St # 1,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurants",10002
-c2ae21fe95f627cb74decb6c55288a41,Uptown Cottage,1748 2nd Ave,New York,NY,"Sushi Bars, Chinese Restaurants, Take Out Restaurants, Japanese Restaurants, Asian Restaurants, Restaurants",10128
-ebf58386899d20512768c01ef7472a2e,Congee Village,100 Allen St # 1,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10002
-beace1154b4f88e84ccb5ec1101dac0c,RCL Enterprises,14122 Rockaway Blvd,Jamaica,NY,"Caterers, Restaurants, Take Out Restaurants, American Restaurants, Caribbean Restaurants",11436
-ece9ff2d2a844d73ceda27a47b79d8b8,Gyu-Kaku,34 Cooper Sq,New York,NY,"Restaurants, Japanese Restaurants, Asian Restaurants",10003
-a2efa197af3ba3b2856aac0ee4e4026f,Alfanoose,8 Maiden Ln,New York,NY,"Middle Eastern Restaurants, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Restaurants",10038
-3c5a148f83dcae7183f1dfa23f09111c,Las Ramblas,170 W 4th St,New York,NY,"Spanish Restaurants, Mediterranean Restaurants, Restaurants",10014
-0f31e6d95bd686d80013edac1fae9fb2,S. Dynasty Restaurant,511 Lexington Ave Fl 2,New York,NY,"Thai Restaurants, Take Out Restaurants, Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Continental Restaurants, Restaurants",10017
-048869f1be58823e7bb35acc3dad2385,Ben's,209 W 38th St,New York,NY,"Delicatessens, Restaurants, Family Style Restaurants, Kosher Restaurants, Take Out Restaurants, Caterers",10018
-ac630a0218c7e5b4b8cffc5f4d2daf80,Brick Lane Curry House,306 E 6th St,New York,NY,"Indian Restaurants, Take Out Restaurants, Restaurant Delivery Service, Caterers, Middle Eastern Restaurants, Asian Restaurants, Restaurants",10003
-5ff119d0a88e5a9b7e26af5d500b9a16,Cipriani Dolci,89 E 42nd St,New York,NY,"Italian Restaurants, Bar & Grills, Restaurants",10017
-b087f6ffc06d6e7580453f05b10e4ff8,Blaggards Pub & Restaurant,8 W 38th St,New York,NY,"American Restaurants, Bars, Steak Houses, Taverns, Cocktail Lounges, Bar & Grills, Irish Restaurants, Hamburgers & Hot Dogs, Take Out Restaurants, Restaurants",10018
-a4e67c38bffd3fe58f76986455ce2ff2,Via Emilia,47 E 21st St,New York,NY,"Italian Restaurants, Mediterranean Restaurants, Seafood Restaurants, Restaurants",10010
-ccdd6033886d89877173abd267562e71,Strand,33 W 37th St,New York,NY,"American Restaurants, Bars, Cocktail Lounges, Fine Dining Restaurants, Bar & Grills, Breakfast, Brunch & Lunch Restaurants, Night Clubs, Restaurants",10018
-591ed954bce2ae14c5dc8ec6a1bc448f,Lantern Thai Kitchen,311 2nd Ave,New York,NY,"Thai Restaurants, Asian Restaurants, Breakfast, Brunch & Lunch Restaurants, Caterers, Restaurants",10003
-b876b349bea466ef215fff187f961379,Peking Duck House,28 Mott St,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10013
-333338c4bb5d77921d20cc6201b86091,Cassidy's Irish Pub & Restaurant,65 W 55th St,New York,NY,"Bar & Grills, Bars, Breakfast, Brunch & Lunch Restaurants, Night Clubs, Taverns, Take Out Restaurants, Restaurants",10019
-94314406ada4a84d2ae1d19d12d4d961,Arturo's Ristorante Italiano,24604 Jericho Tpke,Floral Park,NY,"Restaurants, Caterers, Party Planning, Italian Restaurants, Seafood Restaurants",11001
-d30bf9becf0a52fbe121a2be055e0497,Beach Cafe,1326 2nd Ave,New York,NY,"American Restaurants, Italian Restaurants, Coffee Shops, Restaurants",10021
-5cc06b89b83fe886b063a828bdc33259,The East End Bar & Grill,1664 1st Ave,New York,NY,"Restaurants, Bar & Grills, Bars, Night Clubs, Brew Pubs, Taverns, Hamburgers & Hot Dogs",10028
-c9fd85e52f233ebea6eb85466939220c,The Great American Health Bar,35 W 57th St,New York,NY,"American Restaurants, Bars, Pizza, Sandwich Shops, Health Food Restaurants, Take Out Restaurants, Caterers, Restaurants",10019
-d9d140597fa45b8963889c31260447e9,Local West,1 Penn Plz,New York,NY,"Coffee Shops, Steak Houses, Restaurants",10119
-b3208093252d6027d4373f3e34bb1383,That's Amore Pizzeria,1405 Saint Nicholas Ave,New York,NY,"Pizza, Take Out Restaurants, American Restaurants, Restaurants",10033
-0c7b533d20ea2b27a1e666eaa0e681f3,Lil' Frankies Pizza,19 1st Ave,New York,NY,"Pizza, Italian Restaurants, Take Out Restaurants, Caterers, Bar & Grills, Restaurants",10003
-c21d3f0f36591628a29580533fa54c2c,Pietro's,232 E 43rd St,New York,NY,"Italian Restaurants, Family Style Restaurants, Mediterranean Restaurants, Fine Dining Restaurants, Steak Houses, Seafood Restaurants, Breakfast, Brunch & Lunch Restaurants, Take Out Restaurants, Restaurants",10017
-02d2dd67458e59e2ad82f5587db8edc6,Candela,92 2nd Ave Frnt 1,New York,NY,"Italian Restaurants, Bars, Breakfast, Brunch & Lunch Restaurants, Caterers, Restaurants",10003
-3a64a369694238b3db3c70f9b1c26190,Aoki,234 W 48th St,New York,NY,"Japanese Restaurants, Sushi Bars, Health Food Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10036
-0018657d79af08d543b07676ecfc6dd1,Palma,28 Cornelia St,New York,NY,"Italian Restaurants, Fine Dining Restaurants, Mediterranean Restaurants, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Mexican Restaurants, Restaurants",10014
-fa423af69d5f51658b452d2eb4505898,Sandro's,306 E 81st St,New York,NY,"Italian Restaurants, Mediterranean Restaurants, Family Style Restaurants, Restaurants",10028
-187fa32e5cfaa08e42b538e731cb61e4,White Horse Tavern,567 Hudson St,New York,NY,"Taverns, Bars, American Restaurants, Restaurants",10014
-365f51e0d76d0104202a10013ef1e116,Viang Ping Palace,210 E 23rd St,New York,NY,"Thai Restaurants, Family Style Restaurants, Asian Restaurants, Restaurants",10010
-62eeb9d306ddd51690720bef153ee4ea,Madison Bistro,238 Madison Ave,New York,NY,"French Restaurants, Fine Dining Restaurants, Breakfast, Brunch & Lunch Restaurants, Continental Restaurants, Sandwich Shops, Restaurants",10016
-5756d678f6bc41d90fe57b26ffcb29b6,Blarney Stone,410 8th Ave Frnt 1,New York,NY,"Family Style Restaurants, Bars, Brew Pubs, Irish Restaurants, Taverns, Restaurants",10001
-be4f18367d4147588a0bd52e0caebf49,211 New Taco Grill,211 E 14th St,New York,NY,"Mexican Restaurants, Latin American Restaurants, Take Out Restaurants, Bar & Grills, Restaurants",10003
-95582b120e5c556f8945c6ca02589f03,Candle Cafe,1307 3rd Ave,New York,NY,"Cafeterias, Breakfast, Brunch & Lunch Restaurants, Caterers, Take Out Restaurants, Family Style Restaurants, Vegan Restaurants, Restaurants",10021
-aff1a067e89a54cf61ee5ea5816ca328,Blue Moon Mexican Cafe,1444 1st Ave,New York,NY,"Mexican Restaurants, Seafood Restaurants, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Latin American Restaurants, Restaurants",10021
-1a9750db4731b6b6368c23f53c7a6f09,Sake Bar Satsko,202 E 7th St,New York,NY,"Sushi Bars, Japanese Restaurants, Asian Restaurants, Bars, Restaurants",10009
-33dba96c3a9fab5da8f7ccc3f6804327,Nick & Stef's Steakhouse,9 Penn Plz,New York,NY,"Steak Houses, American Restaurants, Barbecue Restaurants, Restaurants",10001
-0662b476bfa63151587f5369df32491c,Aki Sushi West,128 W 36th St,New York,NY,"Sushi Bars, Japanese Restaurants, Health Food Restaurants, Asian Restaurants, Chinese Restaurants, Restaurants",10018
-bd76ffb211ed3ba08904aee6d238cc9e,African American Best Food Inc,410 Malcolm X Blvd Frnt 1,New York,NY,"African Restaurants, American Restaurants, Grocery Stores, Restaurants",10037
-0e2a899c4993002516e25e68182f7ad6,Pukk,71 1st Ave,New York,NY,"Vegetarian Restaurants, Take Out Restaurants, Thai Restaurants, Breakfast, Brunch & Lunch Restaurants, Vegan Restaurants, Asian Restaurants, Health Food Restaurants, Delicatessens, Restaurants",10003
-c1319a91d70cb6eaf7d9ea8995850779,Strip House Midtown,15 W 44th St,New York,NY,"Steak Houses, Caterers, Seafood Restaurants, Restaurants",10036
-d46118e65241cce43b2c7047a04d9d97,Sobaya,229 E 9th St,New York,NY,"Japanese Restaurants, Asian Restaurants, Family Style Restaurants, Restaurants",10003
-ba44015a95272d8e05eed05baaba3eb5,Lincoln Park Bar & Grill,867 9th Ave,New York,NY,"Bar & Grills, Bars, Taverns, Night Clubs, Take Out Restaurants, Seafood Restaurants, Hamburgers & Hot Dogs, Restaurants",10019
-71993fc37e175c17402b477fd8a6bae9,Il Vagabondo Restnt,351 E 62nd St,New York,NY,"Family Style Restaurants, Italian Restaurants, Mediterranean Restaurants, Restaurants",10065
-399636a828f3886b9e6fa3417169a0b2,Strand Diner,208 W 96th St,New York,NY,"American Restaurants, Caterers, Coffee Shops, Restaurants",10025
-e2997ccc57a353790f84c33c6a390ed6,Libretto's Pizza,546 3rd Ave,New York,NY,"Pizza, Take Out Restaurants, Italian Restaurants, Caterers, American Restaurants, Sandwich Shops, Restaurants",10016
-6d800d44e159cba2cc3cccae8858a48a,Maggie's Place,21 E 47th St,New York,NY,"Seafood Restaurants, Bars, Night Clubs, Take Out Restaurants, Irish Restaurants, Breakfast, Brunch & Lunch Restaurants, Restaurants",10017
-83117ccb565534bfcd3002a920f59bcb,Westville East,173 Avenue A,New York,NY,"American Restaurants, Take Out Restaurants, Caterers, Hamburgers & Hot Dogs, Bar & Grills, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Restaurant Delivery Service, Restaurants",10009
-21efcce4b7d5b1304e832211b5b21bbc,Orchard Restaurant,162 Orchard St,New York,NY,"American Restaurants, Italian Restaurants, Restaurants",10002
-125da7860981ce202e2500b24f1364bf,Giovanni Venti Cinque Restaurant,25 E 83rd St Frnt 1,New York,NY,"Italian Restaurants, Mediterranean Restaurants, Seafood Restaurants, Restaurants",10028
-3e7b288253aa8c4dc0c22ea69a4fe4aa,Trattoria Dell'Arte,900 7th Ave,New York,NY,"Italian Restaurants, Mediterranean Restaurants, Take Out Restaurants, Bar & Grills, Family Style Restaurants, Restaurant Delivery Service, Caterers, Coffee Shops, Restaurants",10106
-dc19d90ac7d830ab088e2b9286e111d1,La Terraza Restaurant Incorpor,3881 Broadway,New York,NY,"Family Style Restaurants, Take Out Restaurants, Restaurants",10032
-1a6e2084c305b91f8d691c17d7c7fe30,Hawkers,225 E 14th St,New York,NY,"Sushi Bars, Japanese Restaurants, Thai Restaurants, Asian Restaurants, Restaurants",10003
-fba2e36d464bd3439e88a7cc1a61c7e2,New Dobule Dragon II Rstrnt,37 Avenue C,New York,NY,Chinese Restaurants,10009
-e7f4335650cdae419e523094085c715d,China Moon,1946 1st Ave,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurants",10029
-f310bace95d98375783ea42929b6a580,No,825 W 181st St,New York,NY,"Chinese Restaurants, Restaurants",10033
-58e51a252a2192a2018cedde15fc8045,Silk Rd Tavern,46 W 22nd St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10010
-e3f73b233303be92d765c2ba04bd72bf,Mafra Bar And Restaurant,24 1st Ave,New York,NY,"Family Style Restaurants, Restaurants",10009
-73e9c292062b061ba0332b4a96bbf193,Maysville,17 W 26th St,New York,NY,"American Restaurants, Bars, Restaurants",10010
-6be407a3b9c02a6333ac25c81660c7cf,New Peking,132 Nagle Ave,New York,NY,"Chinese Restaurants, Restaurants",10040
-f4db17033b55ea196fe4098118a85580,Chen Zeng Guan,2025 Adam Clayton Powell Jr Blvd,New York,NY,"Chinese Restaurants, Restaurants",10027
-3a793b8c05d5c306062b9c389daf9df1,fortune star,84 eldridge st,new york,NY,Chinese Restaurants,10002
-4e25642799518d47325ed417ec0210b9,New Star Kitchen Inc,2200 Amsterdam Ave,New York,NY,"Chinese Restaurants, Restaurants",10032
-3320dbe760ee24d28bdaa05a837e1274,Great Wall,2234 1st Ave Frnt 1,New York,NY,"Chinese Restaurants, Seafood Restaurants, Asian Restaurants, Restaurants",10029
-f2207d8bd648fb98f80d5575566513d8,Grand Sichuan International St Mark's,21 Saint Marks Pl,New York,NY,"Chinese Restaurants, Asian Restaurants, Japanese Restaurants, Restaurants",10003
-7d4f82b6213da99caa81469ca772d3bf,Taste Good Restaurant,18 W 25th St,New York,NY,"Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10010
-2b231b1226a2cbbe491a89bb55bd1a95,Grand Sichuan,307 Amsterdam Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10023
-6dc1a16ea4ad32f6c2d65db468f0f798,M & M Market Deli,529 Broome St,New York,NY,"American Restaurants, Delicatessens, Take Out Restaurants, Sandwich Shops, Mexican Restaurants, Health Food Restaurants, Bar & Grills, Restaurants",10013
-327ac99ce4e64cbf8ad041d410bfa1b1,88 Palace Restaurant,88 E Broadway,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10002
-a5f52872a4786d770de7ce8d37a0ba41,Wok To Walk,570 8th Ave,New York,NY,"Chinese Restaurants, Restaurants",10018
-fdc558de531d6ef2f6349866112724c5,American Restaurant Design Inc,171 Bowery Frnt 1,New York,NY,"Family Style Restaurants, Restaurants",10002
-1364a9ca3cc84be790a54645fd558df4,China Daily Distribution Corp,1500 Broadway,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10036
-6ad007c9d72d1a8492c9e7d91406c125,Dong Ting Lake,352 E 55th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10022
-2dad7e0fbfff7d6541a439e3bf152380,Eden Wok,43 E 34th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Japanese Restaurants, Take Out Restaurants, Caterers, Restaurants",10016
-5f5039df593343d6c9bc492a926d8176,New Hong Wong Restaurant Inc,207 E 59th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10022
-fd418ac720e320141182332039dc93fe,Chang Wang Restaurant Inc,38 Allen St,New York,NY,"Family Style Restaurants, Take Out Restaurants, Restaurants",10002
-d948bd4e82add9e634911956c3060272,Sui,54 Spring St,New York,NY,"Japanese Restaurants, American Restaurants, Restaurants",10012
-b26aa2d9381cd68480fc03898161107c,Jing Hui,255 W 148th St,New York,NY,"Chinese Restaurants, Family Style Restaurants, Take Out Restaurants, Restaurants",10039
-50352d34103b8e089cbde0c17a428017,Hang Lung Chinese Restaurant,1614 Saint Nicholas Ave,New York,NY,"Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Restaurants",10040
-40319aad6b09d45d8829f8b9108fcfb5,New Sunny East 88,1680 1st Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Caterers, Family Style Restaurants, Restaurants",10128
-0e492d42f5382fe170fa5fbbecdb3c0c,Real Kung Fu Little Steamed Buns Ramen,811 8th Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10019
-595038d8253104365794023c2ae6ada4,Roxy's E W Diner,20 John St,New York,NY,"American Restaurants, Coffee Shops, Restaurants",10038
-f588fedf8e2514569729015185e1b04e,Nocciola Ristorante,237 E 116th St,New York,NY,"Italian Restaurants, Restaurants",10029
-176df705db00c70dfcce980d48749d07,9th Moon Chinese Take Out,338 9th Ave,New York,NY,"Chinese Restaurants, Take Out Restaurants, Fast Food Restaurants, Asian Restaurants, Family Style Restaurants, Restaurants",10001
-0773d2dffe501b744f79237d3430f80e,New King Chinese Food,304 W 14th St,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurant Delivery Service, Fast Food Restaurants, Restaurants",10014
-0b4ca963fc3368ec2fbddadec014300f,Ten-Tan Chinese Restaurant,3864 10th Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Family Style Restaurants, Restaurants",10034
-2a52457ab2215b277230286d0bfe3e94,Panda East Restaurant Inc,536 3rd Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Family Style Restaurants, Restaurants",10016
-37ff4c3951bbadf5e15bae3b8097183d,Yum 168 Inc,162 E 25th St,New York,NY,"Chinese Restaurants, Fast Food Restaurants, Restaurants",10010
-b5421f378acc1939a5108b5ee0f1c888,P J's Of Little Italy,138 Mulberry St,New York,NY,"Italian Restaurants, Caterers, Family Style Restaurants, Mediterranean Restaurants, Restaurants",10013
-17ba1905fa805b72fe50f7b5be1fbb3f,Fei Ming Chinese Restaurant,82 Nagle Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10040
-0efc2dc0c1a2f01a8ccd1e3cfdb187be,Savour Sichuan,108 W 39th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10018
-a8978808f1ad9347ca76d54897f558ea,Wo Hop Kitchen,2923 Frederick Douglass Blvd,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10039
-7a570b4dec6b369191720c27bb740316,Chinatown Express,427 7th Ave,New York,NY,"Chinese Restaurants, Take Out Restaurants, Asian Restaurants, Restaurants",10001
-6a8294d20240b2167c16045d8fa08b56,Hou Yi Hou Pot,92 Hester St,New York,NY,"Asian Restaurants, Restaurants",10002
-a7e00c2f2803c1bb9b3e9ce7bb34a582,Ho Lee Restaurant,2493 Adam Clayton Powell Jr Blvd,New York,NY,"Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Restaurants",10030
-19574fec568dc0dc488f5a68fbc08586,Underground Pizza,3 Hanover Sq,New York,NY,"Pizza, Italian Restaurants, Sandwich Shops, Bakeries, Restaurants",10004
-7669be9a07170a4019a7be3659bbf4bf,Kopi,68 W 3rd St,New York,NY,"Asian Restaurants, Restaurants",10012
-38f4abf2a83a10935432486394ce661b,Noodle Fun,1744 1st Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10128
-d5020ca96bbb1a663d0fd9798c591b40,Cafe China Group,451 Washington St,New York,NY,"Chinese Restaurants, Take Out Restaurants, Caterers, Restaurants",10013
-5f9359f57c325b1aab1ba2be36ef5f49,Kamkuo Seafood Corp,124 E Broadway,New York,NY,"Seafood Restaurants, Fish & Seafood-Wholesale, Restaurants",10002
-113f453663af8a16db92ef77808df936,Wok Express,2133 3rd Ave Frnt 1,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10035
-f3ed06a94c2cd9f6a17883de7a39265f,China Taste,1570 2nd Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10028
-4df250e0a078b74779f7f6a2b819ca4d,Won Ton Specialist Inc,50 Allen St,New York,NY,"Asian Restaurants, Chinese Restaurants, Restaurants",10002
-77cb446dcfe852497374b778ce1f7736,Happy Wok Restaurant,158 Delancey St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10002
-3c50cb07fd55a826d2f6c318a91a125c,King Dragon Two Inc,152 Nagle Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10040
-c613f88c91ecacff1ef35aefca57e1f8,Shanghai Asian Manor,21 Mott St,New York,NY,"Chinese Restaurants, Asian Restaurants, American Restaurants, Restaurants",10013
-c87b6a17ad0bef0013597898df05596c,Lets Eat Cantina,173 Mott St,New York,NY,"Mexican Restaurants, Latin American Restaurants, Italian Restaurants, Restaurants",10013
-24a089b092b47212c9111bdeb855e69b,Lin Xian Biao,595 W 207th St,New York,NY,"Chinese Restaurants, Restaurants",10034
-20cee4f6257b83bc5ec4084ef591ca42,Tiny Fork,167 Orchard St,New York,NY,"Seafood Restaurants, Restaurants",10002
-dc31a35367c496916a2e3a8732be0f59,Szechuan Gourmet,1345 2nd Ave,New York,NY,"Chinese Restaurants, Restaurants",10021
-ce0e54925a2c41cb5bb759c9aecc3e8e,Abby Chinese Cuisine,536 3rd Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10016
-4ecfa94400429465d2efedada3c5cf66,Sammy's Noodle Shop & Grill,453 Avenue Of The Americas,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Family Style Restaurants, Restaurant Delivery Service, Caterers, Bar & Grills, Restaurants",10011
-dfc76a60c0a34ef3f1a3112872f1bea5,Georgio's Pizzeria,20 Beaver St,New York,NY,"Italian Restaurants, Pizza, Pasta, Sandwich Shops, Health Food Restaurants, Take Out Restaurants, Mediterranean Restaurants, Restaurants",10004
-e6c8cb3c88218e34f5538433f9ae04ea,Chopstick House,130 W 36th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Japanese Restaurants, Sushi Bars, Restaurants",10018
-0d8dd28d4968d3e1f00dfb3736e51aff,Zhong Hua Restaurant,23 W 100th St,New York,NY,"Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10025
-c39d755ed492dac9ab943679188ad2f1,Euodo Ishihama,319 5th Ave,New York,NY,"Japanese Restaurants, Sushi Bars, Seafood Restaurants, Restaurants",10016
-db8a6a5dc6b752ea0cea9f8a7b7b841f,Manchu Wok,30 Rockefeller Plz Ste CONC10,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurants",10112
-6134e948e162a7003d4de5f9ecb676dc,Bongo,395 West St,New York,NY,"Seafood Restaurants, American Restaurants, Bars, Cocktail Lounges, Restaurants",10014
-f07298dbb20372d37ab02c2a0610b611,The Australian,20 W 38th St,New York,NY,"Sports Bars, Restaurants, Bar & Grills, Cocktail Lounges, Employment Agencies, Bars",10018
-0f7ec8c077a8974d961b0f24aaf55625,Chuck E. Cheese's,280 Saint Nicholas Ave,New York,NY,"Pizza, Restaurants, Family Style Restaurants, Amusement Places & Arcades, Party Planning",10027
-c256a56f6262f7cb7c5b0749fc78e369,Londas Diner,530 Dick Rd,Depew,NY,Restaurants,14043
-1648a84e0494d61da24227ba4367e60f,George's Hot Dogs,5808 Herman Hill Rd,Hamburg,NY,"Hamburgers & Hot Dogs, American Restaurants, Restaurants",14075
-32d5ee2e626892530e9b5e339afff878,Murray McCann's Bar and Grill,2500 George Urban Blvd,Depew,NY,Restaurants,14043
-d4906e83c48ce0963aa50e427ad6fe70,Deborah Tomasello,6656 Gowanda State Rd,Hamburg,NY,Restaurants,14075
-f1a243204d16d75e77163a94d5d94fe7,Romeo & Juliet Cafe,2512 Sheridan Dr,Tonawanda,NY,"Coffee Shops, Breakfast, Brunch & Lunch Restaurants, Cafeterias, Restaurants",14150
-5185bbc5b39db75964f7ef91b7d6db7e,Tim Horton's,1199 French Rd,Depew,NY,"Coffee & Espresso Restaurants, Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14043
-771d8f88232ad22129b5cf6d29e447a0,Dacc's Restaurant,3175 Millersport Hwy,Getzville,NY,Restaurants,14068
-bd68238b02b311577a2ef1004e1ec622,Yings Wings & Things,1460 French Rd,Depew,NY,"Chicken Restaurants, Restaurants",14043
-b36f1de7048ad7e7bcd14b5595b56771,La Costa Verde,5790 Transit Rd,Depew,NY,"Mexican Restaurants, Restaurants",14043
-07bf8074956fd33be359c486cf126826,Bella Vista Ristorante,7001 Buffalo Ave,Niagara Falls,NY,"Italian Restaurants, Mediterranean Restaurants, Restaurants",14304
-044ce198fce3f6f842d4c8d000e501f7,Mariah's On Sixteen,7200 Seneca St,Elma,NY,Restaurants,14059
-fbe3459781f75222425b508072a28114,Transit China King Restaurant,9648 Transit Rd Ste 550,East Amherst,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",14051
-f5ccca5497e1e048d704876e34087d83,Riva's Pizzeria,3488 Walden Ave,Depew,NY,"Pizza, Sandwich Shops, Restaurants",14043
-c4ae15dcef096781a48fc212663df658,Rocky's Indian Restaurant,2351 Millersport Hwy,Getzville,NY,"Indian Restaurants, Restaurants",14068
-30b2311e45d2585661b07b028ecf2cba,Londas Diner,576 Dick Rd,Depew,NY,Restaurants,14043
-93aa96b2ffa650796a71ee76044583c4,Campobello's Pizzeria Restaurant,9334 Transit Rd,East Amherst,NY,"Italian Restaurants, Pizza, Caterers, Mediterranean Restaurants, Restaurants",14051
-31c3f821a003d6342eec82b67457f19c,Penora's Pizzeria,5055 Broadway,Depew,NY,"Pizza, Take Out Restaurants, Restaurants",14043
-f77458e177f25b76b806b0551b40356c,Bravo Cafe & Catering,5781 Seneca St,Elma,NY,"Coffee Shops, Caterers, Restaurants",14059
-b3e9b23a36c9c2924e2f549a8684d74d,Colombos,1957 Lakeview Rd,Lake View,NY,"Pizza, Bars, Restaurants",14085
-ec04e8ad0e0beb7fd0a0abe27d273bf6,Tim Horton's,849 Young St,Tonawanda,NY,"Restaurants, Coffee & Tea, Coffee & Espresso Restaurants, Coffee Shops, Breakfast, Brunch & Lunch Restaurants",14150
-a577e8c5796702eb40e39cdd2f53f931,Park Avenue Grille,4572 Clark St,Hamburg,NY,Restaurants,14075
-f9357a0f348a973fc32ebd34f130320d,Inlighten Inc,3370 Walden Ave,Depew,NY,Restaurants,14043
-34be39c1eb52919a36b6da241a770729,Bistro In The Square,1 Buffalo St,Hamburg,NY,"Continental Restaurants, Restaurants",14075
-cb1c7812a51524f2f08b6a86c9b78a37,Park Pizza,6121 Chestnut Ridge Rd,Orchard Park,NY,"Pizza, Restaurants",14127
-32375b6696f94d0e699331e051bc46eb,Tim Horton's,4221 Walden Ave,Lancaster,NY,"Coffee & Tea, Coffee Shops, Coffee & Espresso Restaurants, Restaurants, Breakfast, Brunch & Lunch Restaurants",14086
-8c578eaf64c2f192934681d98b79dd99,Websters Bistro & Bar,102 Webster St,North Tonawanda,NY,"Breakfast, Brunch & Lunch Restaurants, Continental Restaurants, Restaurants",14120
-bb1873675a2cff211ebe394442565aff,Trio's Pizzeria,2131 Sawyer Dr,Niagara Falls,NY,"Pizza, Take Out Restaurants, Italian Restaurants, Restaurants",14304
-d8a06a4b3aa18753fc36729e2ea81354,Joseppi Ii,5590 Main St,Williamsville,NY,Restaurants,14221
-0d741096ffe1db6e4fd79fb2d11c7c9f,Southgate Pizza,1042 Union Rd,West Seneca,NY,"Pizza, Restaurants",14224
-e20cad40256d310450ecd7d1d85334cd,Kelly's Korner,524 Cayuga Dr,Niagara Falls,NY,"Take Out Restaurants, Family Style Restaurants, Restaurants, Taverns",14304
-1e2448465636ea5c4b94f1a28ea58bd6,Sado Gas Sales Inc,1032 Union Rd,West Seneca,NY,Restaurants,14224
-01a684fcdbc9eca57ead08ce54257c3f,Toro Restaurant,1 Front St,Brooklyn,NY,"Sushi Bars, Take Out Restaurants, Seafood Restaurants, Bar & Grills, Family Style Restaurants, Restaurants",11201
-27ddaf96c792c682690141118a6d0952,Apple Wood Cafe,5385 Main St,Williamsville,NY,"Coffee Shops, Caterers, Restaurants",14221
-5641aa131e8732915f7022aea66bc68b,Tim Horton's,2080 Military Rd,Tonawanda,NY,"Coffee & Espresso Restaurants, Restaurants, Coffee Shops, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14150
-cf1e8e8fe8972b4bf2b0f054a5d43507,Beerz Food Shop,4906 S Buffalo St,Orchard Park,NY,"Delicatessens, Restaurants",14127
-71f172b0844d6647423fc30d2018c1fb,Stevens Driving School,390 Hinds St,Tonawanda,NY,"Pizza, Restaurants",14150
-a857d967feec101877f328d41a01bf6c,2655 Sheridan Drive Associates,2655 Sheridan Dr,Tonawanda,NY,Restaurants,14150
-b726710172d1216c3abdd9299344ada1,Rigatony S,2488 Grand Island Blvd,Grand Island,NY,"Take Out Restaurants, Caterers, Restaurants",14072
-00634498eea286235a408c3aabcd8e4e,Nai Tapas Bar,174 1st Ave,New York,NY,"Tapas, Restaurants",10009
-1f469ead0558a28709dae21437902030,John & Mary's,2352 Sheridan Dr,Tonawanda,NY,"Pizza, Restaurants",14150
-b290dd58349b2847b5f4878103891401,Chili's Grill & Bar,1536 Military Rd,Niagara Falls,NY,"Bars, Barbecue Restaurants, Hamburgers & Hot Dogs, Mexican Restaurants, Bar & Grills, Family Style Restaurants, Caterers, Restaurants, American Restaurants, Take Out Restaurants",14304
-659de09afc4f22ce616e24390c27720f,Fresh Healthy Cafe,1402 French Rd,Depew,NY,"Coffee Shops, Health Food Restaurants, Breakfast, Brunch & Lunch Restaurants, Cafeterias, Restaurants",14043
-bd4ae04bd646041c804535e6c7de5cb7,Tully's Good Times,8070 Main St,Williamsville,NY,Restaurants,14221
-183d3f3c4034749021c2dfd44e2efa08,Original Pizza Shack,2712 Niagara Falls Blvd,Tonawanda,NY,"Pizza, Food Delivery Service, Restaurants",14150
-403e12cbebeda528ebdaded99e0d1be6,Simply Gourmet,5 Lake St,Hamburg,NY,"Fine Dining Restaurants, Restaurants",14075
-57b0e1f2ff2255c4e8e58ddcdee506f7,Tim Horton's,71 Niagara St,Tonawanda,NY,"Coffee Shops, Restaurants, Coffee & Espresso Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14150
-0198b626897f6ed76a12ebdc2270b6ec,Tim Horton's,2060 Military Rd,Tonawanda,NY,"Restaurants, Coffee & Espresso Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14150
-16ee7f5ba1eb1dcfcc618dc511bdcaa7,Manhattan Bagel,4110 N Buffalo St,Orchard Park,NY,"Bagels, Bakeries, Restaurants",14127
-1c2d71a9accfd05e37576220d3281344,Say Cheese Pizza Co,1771 Love Rd Ste 2,Grand Island,NY,"Pizza, Bars, Restaurants",14072
-4b2e974520f6e68d66e13b9976b06e87,Carriage House Cafe,9060 Main St,Clarence,NY,"Coffee Shops, Restaurants",14031
-42037b7713ac6928bf0342643ce39abc,Salisa's All American Diner,2214 Niagara Falls Blvd,Niagara Falls,NY,"American Restaurants, Coffee Shops, Restaurants",14304
-45960e0910f97502e92b08eca4649772,Just Pizza,5380 Genesee St,Bowmansville,NY,"Pizza, Restaurants",14026
-fb27825061c3c18188d1ab8d1aee7537,Ronny's Take-Out Svce Pizza,222 Aurora St,Lancaster,NY,"Pizza, Restaurants",14086
-5ded792b20a4f43dad20a74a6355cfb8,Sado Gasoline Sales Incorporated,966 Payne Ave,North Tonawanda,NY,Restaurants,14120
-f20eaefb20cc51c0ea42ec642ed48971,Dunkin' Donuts,4909 S Park Ave,Hamburg,NY,"Donut Shops, Bakeries, Restaurants, Bagels, Coffee & Espresso Restaurants",14075
-111277b80c912d75dead7f30a565ebb8,Theodores Original Charcoal Broiled Hot Dogs,1734 Grand Island Blvd,Grand Island,NY,"Hamburgers & Hot Dogs, Restaurants",14072
-972eddc61107133b8039c9f0e8feecd1,Dunkin' Donuts,3819 Forest Park Way,North Tonawanda,NY,"Donut Shops, Bakeries, Restaurants, Bagels, Coffee Shops, Coffee & Espresso Restaurants",14120
-9def815d1042fdf9c89a0ebe3ee9c2fc,Buffalo Wild Wings,1594 N Military Rd,Niagara Falls,NY,"Take Out Restaurants, Restaurants, Bar & Grills, Chicken Restaurants, Sports Bars",14304
-e954c005306aa3dfab8bca157e93bd1c,Longo's Pizza,2225 Colvin Blvd,Tonawanda,NY,"Pizza, Restaurants",14150
-2b532a62bb5f292b23221800bdaa3745,Carol's Cafe,5354 Genesee St,Bowmansville,NY,"Coffee Shops, Restaurants",14026
-b20c18102d00f1d70bef5a15b1b0aedc,Lt S Pizza And Subs,470 Aurora St,Lancaster,NY,"Pizza, Delicatessens, Restaurants",14086
-87136d941988930ec97e8fa98e0b9287,Frog Hair Grille & Golf,7800 Transit Rd,Williamsville,NY,Restaurants,14221
-41005984ecc103496071521b1e82b5ab,Dunkin' Donuts,5760 Transit Rd,Depew,NY,"Donut Shops, Bagels, Bakeries, Restaurants, Coffee & Espresso Restaurants",14043
-655bac51556006c6864a64bbb871438f,Jing Jing Garden,21 Main St,Tonawanda,NY,Restaurants,14150
-fe45974a4b95eb9146309e2265901f94,Figgy's Town Restaurant,7101 Porter Rd,Niagara Falls,NY,"Family Style Restaurants, Restaurants",14304
-e1a3efb4b0445d28d3a6a7dc5dae75a2,Christe's Restaurant,1056 Union Rd,West Seneca,NY,"Breakfast, Brunch & Lunch Restaurants, Restaurants, Banquet Halls & Reception Facilities",14224
-9c900fe2e470b3fba42de9c2ad56b711,John & Mary's,40 Buffalo St,Hamburg,NY,"Pizza, Restaurants",14075
-98ac25c1e216d58352bfd2f3a6ec27bc,Just A Bite,1051 Sheridan Dr,Tonawanda,NY,Restaurants,14150
-48ef1bfb9563827e866683ad9e55b070,Picasso's Pizza,2193 Union Rd,West Seneca,NY,"Pizza, Restaurants",14224
-019e1cfc8b38b2c921a69a2beed96f13,Chans Wok Restaurant,796 Young St,Tonawanda,NY,"Continental Restaurants, Restaurants",14150
-9183a3756294410b510e82bd98918582,Chinatown Cuisine,38 Patrick Ln,Depew,NY,Restaurants,14043
-92a2b860233677b88767010c50e670d6,Depew Deli & Grocery,4911 Broadway,Depew,NY,"Delicatessens, Restaurants",14043
-606876b7709237b307b787d6cf2ef63a,Pages S Entertainment Center Inc,4701 Transit Rd,Depew,NY,Restaurants,14043
-9056ae5b96108211a682dddb76b0cbdc,Portabello's,5246 Transit Rd,Depew,NY,Restaurants,14043
-c69ac9330fc75767c6c1b5b1249c02f3,Nonno,415 Dick Rd,Depew,NY,Restaurants,14043
-6bed5e635cd711e3b15f6986065f133f,Koz's Pizza Alley,507 Sunset Dr,Hamburg,NY,"Pizza, Restaurants",14075
-78f18410156e07c82e36d8e8eab1b9ee,Turner's Port Of Call,997 E River Rd,Grand Island,NY,Restaurants,14072
-52633d1eecd5398cd56790cffd853496,Dunkin' Donuts,2225 Colvin Blvd,Tonawanda,NY,"Bagels, Donut Shops, Bakeries, Restaurants, Coffee & Espresso Restaurants",14150
-dd9597cf77e9fce7fb57ffefd1cc3b55,Tim Horton's,1481 Union Rd,West Seneca,NY,"Coffee & Espresso Restaurants, Breakfast, Brunch & Lunch Restaurants, Restaurants, Coffee & Tea, Coffee Shops",14224
-9c9c97e7535813f407eced891e2c199e,Mcknight Enterprises,4923 Southwestern Blvd,Hamburg,NY,Restaurants,14075
-06ce6c67e9ea789e8d10219efb4ce9e0,Tacos & More,4473 Lake Shore Rd,Hamburg,NY,"Mexican Restaurants, Latin American Restaurants, Restaurants",14075
-3f8136484927f024e952e38aaceffa30,Ricotta Food Shops Inc,7025 Ellicott Rd,Orchard Park,NY,"Pizza, Convenience Stores, Delicatessens, Italian Restaurants, Restaurants",14127
-c0c8c32b42f060c433c8247e2ace6f16,Ziggy's Taco & Sub,2789 Union Rd,Cheektowaga,NY,"Mexican Restaurants, Restaurants",14227
-9cca014f661a0ef5d07b79772189a338,El Centro,824 9th Ave,New York,NY,"Mexican Restaurants, Take Out Restaurants, Breakfast, Brunch & Lunch Restaurants, Restaurant Delivery Service, Latin American Restaurants, Restaurants",10019
-379e8c2eac18f5467ed29a6cc879daec,Brick Oven Pizzeria & Pub,2457 Grand Island Blvd,Grand Island,NY,"Pizza, Caterers, Restaurants",14072
-0b9aca5a718503e9c0f942d7de0fc041,Rebar,147 Front St,Brooklyn,NY,"American Restaurants, Bars, Cocktail Lounges, French Restaurants, German Restaurants, Night Clubs, Restaurants",11201
-72f2460edf03f94d6b70ae934c47548c,Di Paulo's Pizza,571 Brighton Rd,Tonawanda,NY,"Pizza, Restaurants",14150
-36d22306edb631af8dd914140c87c7e6,Chef's Table,5385 Main St,Williamsville,NY,Restaurants,14221
-f7f7c7473d710ba390dfccfeccba3691,Pho Cafe,2351 Millersport Hwy,Getzville,NY,Restaurants,14068
-3beebaca9787d89a0d640b39a4ec5b60,Tim Horton's,2595 Union Rd,Cheektowaga,NY,"Restaurants, Coffee & Tea, Coffee & Espresso Restaurants, Breakfast, Brunch & Lunch Restaurants, Coffee Shops",14227
-317aef8cd67dfa747d28461b3298569e,Peet's Coffee & Tea,4920 Transit Rd,Depew,NY,"Coffee & Tea, Coffee & Espresso Restaurants, Coffee Shops, Restaurants",14043
-47e94f1b38381ce51d8f96d1b8dec062,Noccino's Pizzeria,2510 Bowen road,Elma,NY,"Pizza, Restaurants",14059
-e63008384b7044f37abefc2eadcfed6f,Town Cafe,2352 Grand Island Blvd,Grand Island,NY,"Cafeterias, Breakfast, Brunch & Lunch Restaurants, Restaurants",14072
-548ed9e14b98f23c7b2f9cc76883de57,Chef's Choice Food,3160 Walden Ave,Depew,NY,Restaurants,14043
-eabea6dae4a45668ae90f0f7781173fd,Picasso's Pizza,5413 Broadway St,Lancaster,NY,"Pizza, Restaurants",14086
-45dae894f3937bba46c9a5289e7285e1,Domanis Pizza Inc,620 Dick Rd,Depew,NY,"Pizza, Restaurants",14043
-caa6a440a75614cc4f5a6bc1941da670,David's Home Of The Steak Hoagy,8442 Niagara Falls Blvd,Niagara Falls,NY,"Steak Houses, Caterers, Pizza, Restaurants",14304
-970a572c9c9527f83198dd6fa091bd8d,Fairways At Deerwood,1818 Sweeney St,North Tonawanda,NY,Restaurants,14120
-1808fe2eed72bba849ba7b49e57a64cf,Peet's Coffee & Tea,4960 Transit Rd,Depew,NY,"Coffee & Tea, Coffee & Espresso Restaurants, Coffee Shops, Restaurants",14043
-8f33382c1fd0b35eb0b0ab9d9d793df4,Phils Crummy Corner,323 Columbia St,Brooklyn,NY,"Barbecue Restaurants, Bars, Bar & Grills, Restaurants, Latin American Restaurants, Sports Bars, Cocktail Lounges, Caterers",11231
-889b1d6391a004bb6697af4f7d4e6ba9,Paula's Donuts,8560 Main St,Williamsville,NY,"Donut Shops, Bakeries, Restaurants",14221
-43c4856e5bde8f84b98bdef052926086,Tim Horton's,4250 McKinley Pkwy,Hamburg,NY,"Coffee & Espresso Restaurants, Restaurants, Coffee Shops, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14075
-cca1b90fee2ce5973de78d60ace44e92,Kabab & Curry,8445 Main St,Williamsville,NY,"Indian Restaurants, Middle Eastern Restaurants, Restaurants",14221
-3870fe5ff18b706339b87a176c0a4889,Elizabeth's Gourmet Coffee Shp,6153 S Park Ave,Hamburg,NY,"Coffee Shops, Coffee & Espresso Restaurants, Coffee & Tea, Restaurants",14075
-b2dd3329a9ff9213c439b2c8fa483091,Panera Bread,1508 Military Rd,Niagara Falls,NY,"American Restaurants, Coffee Shops, Sandwich Shops, Restaurants, Take Out Restaurants, Health Food Restaurants",14304
-3764acf29956961f1fdcb7a708bfcea5,Finn's Inn,MARION Rd,Palmyra,NY,"Pizza, Bars, Restaurants",14522
-4f96617dd749765bacf0004dbb212eb1,Twosister Cafe,4211 N Buffalo Rd,Orchard Park,NY,"Restaurants, Cafeterias, Coffee & Espresso Restaurants, Breakfast, Brunch & Lunch Restaurants",14127
-dbd3aefa23c397f7e0d0f22a7ad07daf,Good To Go,5813 Broadway St,Lancaster,NY,Restaurants,14086
-37ac114d27ab6709a3c05fb37981dac3,Nonna's Pizzeria,4538 Broadway,Depew,NY,"Pizza, Caterers, Restaurants",14043
-dc56f4a0df5bdab917fd7cdae9f229c5,Paddy's Pizza,4673 Broadway,Depew,NY,"Pizza, Restaurants",14043
-b66c16275d5e3f5fc5935ab22036dff4,Theodores Original Charcoal Broiled Hot Dogs Inc,1752 Grand Island Blvd,Grand Island,NY,"Hamburgers & Hot Dogs, Restaurants",14072
-f77b1f4ee1087ab7d7e27f14f9283f71,Prosit Restaurant,5428 Main St,Williamsville,NY,"German Restaurants, Restaurants",14221
-0a2de1ab2b2879c0c0989b40a6a2d955,Tim Horton's,4849 Transit Rd,Depew,NY,"Coffee & Espresso Restaurants, Restaurants, Coffee Shops, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14043
-726f2685a675b8ebe1480183fe3c525a,Moons Pizza,4779 Transit Rd,Depew,NY,"Pizza, Restaurants",14043
-a5b7f0d275aa1431016c3f0c118f2c1e,Dick & Jenny's,1270 Baseline Rd,Grand Island,NY,"Creole & Cajun Restaurants, Restaurants",14072
-68d87e689176023631030cac72b75024,Pizza Hut,7721 Niagara Falls Blvd,Niagara Falls,NY,"Pizza, Take Out Restaurants, Restaurants, Family Style Restaurants",14304
-d07191e89ede25a8e94a9851c510b3af,Samurai,9648 Transit Rd Ste 450,East Amherst,NY,"Japanese Restaurants, Take Out Restaurants, Restaurant Delivery Service, Asian Restaurants, Sushi Bars, Bars, Family Style Restaurants, Restaurants",14051
-656c85a383022db9b78322769d832ef7,Peking Duck House,236 E 53rd St,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurant Delivery Service, Asian Restaurants, Restaurants",10022
-f760196930d4e690a0aedbb232659551,Sgt Pepperoni's,82 Olanta St,Depew,NY,"Pizza, Restaurants",14043
-edf46f9918cc2165f3803d697140e082,Tim Horton's,3600 Walden Ave,Lancaster,NY,"Coffee & Tea, Coffee Shops, Coffee & Espresso Restaurants, Restaurants, Breakfast, Brunch & Lunch Restaurants",14086
-9135bf5d26714583335e7145ce3287dd,Olive Garden,1532 Military Rd,Niagara Falls,NY,"Italian Restaurants, Restaurants, Family Style Restaurants",14304
-e05a78fa061e37135eea9c87c8f0c2f9,Brick Oven,365 Somerville Ave,Tonawanda,NY,"Pizza, Restaurants",14150
-0252ebe957e1b7b018c39c79367fc220,Old Town Bistro,327 White Oak Ln,Grand Island,NY,"Continental Restaurants, Restaurants",14072
-b437610257594bffeadee4a45397f3be,Tim Horton's,2760 Niagara Falls Blvd,Tonawanda,NY,"Restaurants, Coffee & Espresso Restaurants, Breakfast, Brunch & Lunch Restaurants, Coffee & Tea, Coffee Shops",14150
-641f097b5c3025e920b1d9de52c20195,Center Ice,107 Sable Park,East Amherst,NY,Restaurants,14051
-e675a8b0400df206d30ac51225d72e0f,Classic Pizza,5360 Genesee St,Bowmansville,NY,"Pizza, Restaurants",14026
-f106b320a4e26f805c1343411f822c1e,Buffalo Joe's,8611 Main St,Williamsville,NY,Restaurants,14221
-9f5121881cb9bd928a978b90ca1629a6,Torella's Chicken and Pizza,2810 Union Rd,Cheektowaga,NY,"Pizza, Caterers, Restaurants",14227
-1340801fdf329ec5b72d279c4311a120,Just Pizza,1199 French Rd,Depew,NY,"Pizza, Restaurants",14043
-ac4caacb101bdd4e4548ae80bd000c6d,Johnny J's Lancaster Pizza,5321 Clinton St,Elma,NY,"Pizza, Restaurants",14059
-91d038e1543df92c5ab44d102f0e85fb,The 435 Deli,435 Creekside Dr,Amherst,NY,"Delicatessens, Restaurants",14228
-45749a9a36d64b2991240c16420b3965,Pete's Downtown,2 Water St,Brooklyn,NY,"Italian Restaurants, Breakfast, Brunch & Lunch Restaurants, Caterers, Restaurants",11201
-ec302c36fd252c52156fd42d9fed73af,Poppy's Back Street Grill,574 Young St,Tonawanda,NY,"Pizza, Restaurants",14150
-fc27fc9a09b954d2832672e21a263beb,Brando's,470 Aurora St,Lancaster,NY,"Pizza, Restaurants",14086
-cfa9be2f646928879b84b8bb2b6fc8d8,Tim Horton's,1685 Grand Island Blvd,Grand Island,NY,"Coffee Shops, Coffee & Espresso Restaurants, Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14072
-43ad8eb9310aba7654da34dd3e8f97d6,A & A Corner Store & Cafe Inc,5490 Lake Ave,Orchard Park,NY,Restaurants,14127
-41db20061803340d778126f62027efc7,Lumber City Pizza Company,1269 Erie Ave,North Tonawanda,NY,"Pizza, Restaurants",14120
-becf682a8e8193a7efe98ac2b95d8bd7,The Good Fork,391 Van Brunt St,Brooklyn,NY,"American Restaurants, Hamburgers & Hot Dogs, Restaurants",11231
-37a88767b6159236ffc911c4001861d3,Tim Horton's,1930 Colvin Blvd,Tonawanda,NY,"Coffee & Tea, Restaurants, Coffee Shops, Coffee & Espresso Restaurants, Breakfast, Brunch & Lunch Restaurants",14150
-42321e6f8208dfd7ce8dff4678775c83,Tim Horton's,2366 Grand Island Blvd,Grand Island,NY,"Restaurants, Coffee & Espresso Restaurants, Coffee & Tea, Coffee Shops, Breakfast, Brunch & Lunch Restaurants",14072
-42af840ac537b4f0976fc1527acc82c2,Capitol Pizza,260 Main St,Tonawanda,NY,"Pizza, Restaurants",14150
-bbde6295d789e170a22cb8f1e69442dd,Tim Horton's,5945 Big Tree Rd,Orchard Park,NY,"Restaurants, Coffee & Espresso Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14127
-1daefa8f99495da95e143147bf705ecf,Mighty Taco,1435 French Rd,Depew,NY,"Mexican Restaurants, Latin American Restaurants, Restaurants",14043
-418569cb74d94a919950cdfcd924e313,St Angelos Pizzeria,363-365 Somerville Ave,Tonawanda,NY,"Pizza, Bars, Cocktail Lounges, Restaurants",14150
-152f496399f13bec119d32282cb9650c,Dockside Inn On The Canal,153 Sweeney St,North Tonawanda,NY,Restaurants,14120
-c2358f7243412bf9ce22d01ce3b75047,El Canelo,6036 Transit Rd,Depew,NY,Restaurants,14043
-5abfd4a08daa5c2269fe639c8415c6ca,Lt's Old Tyme Subs,8845 Main St,Williamsville,NY,"Delicatessens, Restaurants",14221
-6712ee05646b02e45734674bf5aaf1e1,Bidco Marine Group,131 Industrial Dr,Grand Island,NY,Restaurants,14072
-1669f6caca73de1270bc985039f1d29e,Elldens,201 Whitehaven Rd,Grand Island,NY,Restaurants,14072
-170b33c6bcb0ee06e72d544e279eb846,Knickerbocker Bar And Grill,33 University Pl,New York,NY,"Bar & Grills, Bars, Steak Houses, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Caterers, Taverns, Restaurants",10003
-cd6b2199ef76259d8b2895d3aa2fea09,Lapianas Family Take Out,71 South Ln,Orchard Park,NY,"Take Out Restaurants, Restaurants",14127
-3df33920937d90f08f5a26a0ca60ac2a,Central Ave Bistro,197 Central Ave,Lancaster,NY,Restaurants,14086
-98a26d61bb01571f2cdb11005caca6ec,Richards On Main,561 Main St,Tonawanda,NY,Restaurants,14150
-2001a8ce2c8de814eaee18b08c51ba16,Mayback Food Shoppe,1598 Niagara Falls Blvd,Tonawanda,NY,"Delicatessens, Restaurants",14150
-95f8f029b7972d35161fb9dcb6b61785,Tim Horton's,3205 Orchard Park Rd,Orchard Park,NY,"Coffee Shops, Coffee & Espresso Restaurants, Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14127
-13a7b1bf12a651e0bf93d3eeb65bfb24,Duff's Famous Wings,550 Dick Rd,Depew,NY,"Chicken Restaurants, Restaurants",14043
-a51c66d3c6de27930154e37b4f29e12c,Rooth's Sky-Lite Restaurant,4432 Lake Shore Rd,Hamburg,NY,Restaurants,14075
-eece31b431a620b191e470728794acf6,Good Better Best,1537 Union Rd,West Seneca,NY,Restaurants,14224
-3189fd4a96467c1cb00aaa52efdde4aa,Washington Square Hotel,103 Waverly Pl,New York,NY,"Hotels, Corporate Lodging, Lodging, Motels, Bed & Breakfast & Inns, Meeting & Event Planning Services, Restaurants",10011
-a42b097a1f23ca626232e3a87faaff39,Denny's,8020 Niagara Falls Blvd,Niagara Falls,NY,"American Restaurants, Restaurants, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants",14304
-67401e4a1b916495843c6c458775ce67,Dunkin' Donuts,4891 Transit Rd,Depew,NY,"Bagels, Donut Shops, Restaurants, Bakeries, Coffee & Espresso Restaurants",14043
-57e13a5a4383c5121611c594ef977551,Openers Grill,612 Buffalo Rd,East Aurora,NY,"American Restaurants, Bars, Barbecue Restaurants, Bar & Grills, Restaurants",14052
-9737a687f554d1104dadc93cfd3272c3,Maxi's Pizza,4097 Lake Shore Rd,Hamburg,NY,"Pizza, Restaurants",14075
-3d85a9b64898a09a9b43b8546dfcfb80,Payne Avenue Pizza & Subs,1503 Payne Ave,North Tonawanda,NY,"Pizza, Restaurants",14120
-451477c95b134d4671087e7c40b0a6a9,Caffe Buon Gusto,151 Montague St,Brooklyn,NY,"Coffee & Espresso Restaurants, Take Out Restaurants, Italian Restaurants, Seafood Restaurants, Breakfast, Brunch & Lunch Restaurants, Caterers, Coffee Shops, Health Food Restaurants, Cafeterias, Restaurants",11201
-5cda32843de03cf369a51a38f12e9161,Coyote Cafe,36 Main St,Hamburg,NY,"Restaurants, Mexican Restaurants, Caterers",14075
-5b9082062b5ac73b51756834e08878d8,Simply Italiano,85 Central Ave,Lancaster,NY,"Breakfast, Brunch & Lunch Restaurants, Restaurants",14086
-d5524a9c32d2c426559dd2fafdebebdb,Tenda Asian Bistro,118 Montague St,Brooklyn,NY,"Thai Restaurants, Continental Restaurants, Japanese Restaurants, Sushi Bars, Asian Restaurants, Restaurants",11201
-4a3df4d6ce555b62c40275bf18eb0bd9,The Athletic And Swim Club,787 7th Ave Concourse Level,New York,NY,"Swimming Instruction, Health Clubs, Beauty Salons, Private Clubs, Golf Courses, Yoga Instruction, Personal Fitness Trainers, Day Spas, Exercise & Physical Fitness Programs, Martial Arts Instruction, Health Resorts, Fine Dining Restaurants, Sports Instruction, Physical Fitness Consultants & Trainers, Restaurants",10019
-bbf2ada85e1464214f3ff622afa343d9,Papa John's Pizza,4934 Transit Rd,Depew,NY,"Pizza, Take Out Restaurants, Restaurants",14043
-0cd774fe431894afd4a8bbc7475ef1d3,New Star Buffet Niagara Falls,7325 Niagara Falls Blvd,Niagara Falls,NY,"Buffet Restaurants, Chinese Restaurants, Asian Restaurants, Restaurants",14304
-e7039082c767639ff835f49259720021,Tony's Pizza & Sandwich Svce,4465 Walden Ave,Lancaster,NY,"Pizza, Sandwich Shops, Italian Restaurants, Restaurants",14086
-f890b6e290622ba153ab42c8da448123,Montana's Cookhouse,1620 Niagara Falls Blvd,Tonawanda,NY,"Take Out Restaurants, Restaurants",14150
-6fe2cfcea07a0c639e56e0e3efdd0a50,Phil's Char Pit,9980 Main St,Clarence,NY,"Barbecue Restaurants, Restaurants",14031
-c5779265852374ea12f326145d72b8e0,Deniro's Pizzeria,2251 George Urban Blvd,Depew,NY,"Pizza, Restaurants",14043
-9c8573d1abdc042dbbee842a112a3ad1,Cozy Cafe & Catering,9060 Main St,Williamsville,NY,Restaurants,14221
-8ac097525a90e479aabf2f52afda48c0,Santora's Pizza,2928 Walden Ave,Depew,NY,"Pizza, Restaurants",14043
-bdf22bce9466a5c267feb6dba12c0c6f,The Pizza Heist,231 Aurora St,Lancaster,NY,"Pizza, Restaurants",14086
-76d8ebbc9e48f9d9f9e58a3dc7cf742c,Pappaceno's Pizza,4151 N Buffalo Rd,Orchard Park,NY,"Pizza, Restaurants",14127
-fcd8ad3b5547db9a954dc2b6522b5850,Fortini Inc,2940 Union Rd,Cheektowaga,NY,"Pizza, Restaurants",14227
-09d238eb5e8a46b1e40a752a3941a7db,Joey V's Pizza,6884 Erie Rd,Derby,NY,"Pizza, Italian Restaurants, Restaurants",14047
-3ae9b6013995fb56f7712544676e329d,Risa & David's,72 Webster St,North Tonawanda,NY,Restaurants,14120
-3218b82c21c41c312f8cc16c1ac11676,Gino's Pizza Place,351 Fries Rd,Tonawanda,NY,"Pizza, Restaurants",14150
-f2ef3fce6cbc2b038312bd0c1f8bfe02,Lattanzi Ristorante,361 W 46th St,New York,NY,"Italian Restaurants, Fine Dining Restaurants, Breakfast, Brunch & Lunch Restaurants, Mediterranean Restaurants, Restaurants",10036
-287d8b0e7c51636834d8717d67de22f1,Pita Gourmet,1930 Military Rd,Niagara Falls,NY,"Sandwich Shops, Mediterranean Restaurants, Take Out Restaurants, Family Style Restaurants, Restaurants",14304
-981242c3da40c32ca920b03bc04e095e,Tim Horton's,470 Aurora St,Lancaster,NY,"Coffee & Espresso Restaurants, Restaurants, Coffee Shops, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14086
-4c5094c9d1edb45af11cb2f48ac7121f,Tim Horton's,6150 S Park Ave,Hamburg,NY,"Coffee & Tea, Restaurants, Coffee & Espresso Restaurants, Breakfast, Brunch & Lunch Restaurants",14075
-3b47dce01db81dea2856acd944197990,D'agostino's Pizzeria,576 Dick Rd,Depew,NY,"Pizza, Restaurants",14043
-848ddcd433f53c0fff53ba4dc2552590,Sandi's Family Restaurant,2065 River Rd,Niagara Falls,NY,"Family Style Restaurants, Breakfast, Brunch & Lunch Restaurants, Restaurants",14304
-6cf4e6012c318ce3a8f8661bde737db0,Brick Oven Pizzeria,2375 Grand Island Blvd,Grand Island,NY,"Pizza, Caterers, Restaurants",14072
-37d9b20f51ce711d73ccdf7edbbec620,Apna Masala Indian Cuisine,344 E 6th St,New York,NY,"Indian Restaurants, Restaurants",10003
-3752a835637207b6ab10869d8a60489a,Lt's Old Time Subs,1311 Union Rd,West Seneca,NY,"Pizza, Delicatessens, Restaurants",14224
-f526114f2aa48cf5f7ccf73a361aa9a1,Island Deli & Meat Market,2488 Grand Island Blvd,Grand Island,NY,"Delicatessens, Restaurants",14072
-1e66bd1c03280a72acd5669dd0d00390,Chef John's Pizza,1091 Oliver St,North Tonawanda,NY,"Pizza, Restaurants",14120
-926a481823a32cb0d9368350c460e9f4,King House,2329 Sheridan Dr,Tonawanda,NY,Restaurants,14150
-b07a424f87d74e3c0759f1ab3fd08797,Firehouse Subs,5205 Transit Rd. Suite 200,Williamsville,NY,"Sandwich Shops, Restaurants",14221
-4952b599c4cef2ae340b0c266e8037fe,Sole',5110 Main St Ste 125,Williamsville,NY,Restaurants,14221
-1374e82392c4b357b3fb59735d66f63f,Johnny J Family Pizzeria,2319 Bowen Rd,Elma,NY,"Pizza, Restaurants",14059
-14d4d4404209c725ad3f729fff0acef5,Pizza King,1280 Sherwood Ave,North Tonawanda,NY,"Pizza, Restaurants",14120
-3305dae0f26c892218d5988e42249709,Tomatoe's Pizzeria,354 Oliver St,North Tonawanda,NY,"Pizza, Restaurants",14120
-13ccf88f487a480b32a01e26d1449f56,Franco's Pizza,600 Delaware St,Tonawanda,NY,"Pizza, Restaurants",14150
-0993b02c8aa234c31b2d445c398175d9,Tim Horton's,5316 Transit Rd,Depew,NY,"Restaurants, Breakfast, Brunch & Lunch Restaurants, Coffee & Espresso Restaurants, Coffee & Tea, Coffee Shops",14043
-850cc15b5f6509c18f35da8b9b18b9d8,John's Pizza & Subs,4241 Delaware Ave,Tonawanda,NY,"Pizza, Delicatessens, Restaurants",14150
-dd85b88ae25230d90555f48c75706f59,Thepeppermill,2749 Grand Island Blvd,Grand Island,NY,Restaurants,14072
-45b6dd3f6e9304ced407314c2f0df282,August Bistro,1 Buffalo St,Hamburg,NY,"Breakfast, Brunch & Lunch Restaurants, Restaurants",14075
-9a6eb8a57f6a77260654e974d465b1ee,Dunkin' Donuts,5165 Main St,Williamsville,NY,"Donut Shops, Bakeries, Restaurants, Bagels, Coffee & Espresso Restaurants",14221
-14f074d88438b718922df8a9a56e9ab5,Rachels Cafe And Deli,5953 Main St,Williamsville,NY,"Delicatessens, Cafeterias, Restaurants",14221
-38d0118d9254e7c3f517a0474ed50356,Leos Pizzeria & Wings Inc,142 Grey St,East Aurora,NY,"Pizza, Italian Restaurants, Restaurants",14052
-bafec640956e53d345cfe3f1029ccde1,Tim Horton's,3878 Southwestern Blvd,Orchard Park,NY,"Coffee Shops, Coffee & Espresso Restaurants, Coffee & Tea, Restaurants, Breakfast, Brunch & Lunch Restaurants",14127
-84610e5a79206813311b9411901a3e36,Franco's,600 Delaware St,Tonawanda,NY,"Pizza, Restaurants",14150
-12ed12e26bc3480f30ae49646c144fe1,Ricotta's Pizza,3545 N Buffalo St,Orchard Park,NY,"Pizza, Restaurants",14127
-13cf4b79d253476b294b1093ffb57f63,Burrito Bay Corporation,2341 Millersport Hwy,Getzville,NY,"Mexican Restaurants, Latin American Restaurants, Restaurants",14068
-fb74115f7d91d96c5af105ee62ad7e80,Peet's Coffee & Tea,5622 Amanda Ln,Orchard Park,NY,"Coffee & Tea, Coffee & Espresso Restaurants, Coffee Shops, Restaurants",14127
-6d5983f863bd00f31e475ae5930d225b,Bevacco,60 Henry St,Brooklyn,NY,"Family Style Restaurants, Italian Restaurants, Mediterranean Restaurants, Restaurants",11201
-f6e52362dce38196afd2a01b264562bc,Tim Horton's,5140 Main St Ste 300,Williamsville,NY,"Coffee & Tea, Restaurants, Coffee & Espresso Restaurants, Breakfast, Brunch & Lunch Restaurants, Coffee Shops",14221
-7cc63aa65b084fe2cad532e8152bb76a,The Isle View,791 Niagara St,Tonawanda,NY,Restaurants,14150
-ccd8fb04987e72e22eee6d7643e2fc4b,Nestor's Texas Red Hot's,102 Webster St,North Tonawanda,NY,"Hamburgers & Hot Dogs, Restaurants",14120
-8ca2eb5bd72fa7b9ae3703b3ce73a55d,Red Top Hot Dogs,LAKE Shore Big Tree Rds,Hamburg,NY,"Hamburgers & Hot Dogs, Restaurants",14075
-5ecd1139813fb8b25dc55a8a2da221b5,John & Mary's,2363 Millersport Hwy,Getzville,NY,"Pizza, Restaurants",14068
-79567ede75bce48011dcc8aa9ef3077f,Great Northern Pizza Kitchen,5759 Main St,Williamsville,NY,"Pizza, Restaurants",14221
-0ff5b5d4c24af78bd1e6654a830e2180,Springbrook Grocery & Deli,6150 Seneca St,Spring Brook,NY,"Delicatessens, Restaurants",14140
-ed2521c53cd9651e41fa72ff648f8ef6,Camp Road Deli & Gas,5833 Camp Rd,Hamburg,NY,"Delicatessens, Restaurants",14075
-62560c57887d02a86b2757789124d6a9,Jannelli's Pizzeria,1503 Payne Ave,North Tonawanda,NY,"Restaurants, Pizza",14120
-a01c9c903840cfe92c3d78fc2f934bd2,William James Development Corp,S4179 Lake Shore Rd,Hamburg,NY,Restaurants,14075
-23d1104842a4a767dce4f7402e8060c6,Jet Port Restaurant,7100 Porter Rd,Niagara Falls,NY,"Family Style Restaurants, Banquet Halls & Reception Facilities, Restaurants",14304
-1c1242776b59fa3b740cda6c741bcfc3,Siam Rehab,100 Cheshire Ln,East Amherst,NY,Restaurants,14051
-044600ed5e68fe47c12a5ea4f8d76fd9,Hamburg Gaming Buffao Trotting Assn,5820 S Park Ave,Hamburg,NY,"Restaurants, Buffet Restaurants, Meeting & Event Planning Services",14075
-09d4513fa222f7eae35ae4c3abacfdba,Chase Recovery,5415 Transit Rd,Depew,NY,Restaurants,14043
-ef73c2a2d5faba7d7c031c639bace4b3,Mighty Taco,2455 Grand Island Blvd,Grand Island,NY,"Mexican Restaurants, Latin American Restaurants, Restaurants",14072
-4635984eaa6b5419389ae60a67b03de0,Rocky S Island Pizza Inc,2600 Grand Island Blvd,Grand Island,NY,"Pizza, Restaurants",14072
-35cb52d6f4d39a028440135cba6faa26,Jack Divine,4170 Southwestern Blvd,Orchard Park,NY,Restaurants,14127
-13b7545fea9ea000c801d43ada77ae47,Westend Inn,340 Union St,Hamburg,NY,Restaurants,14075
-f6380075fbd94878f83ee3eb33502ac7,M C Kang Inc,1010 Niagara Falls Blvd # # 2,Tonawanda,NY,Restaurants,14150
-89e60c9b0c4af5da03663b19b20985c2,Paradou,8 Little West 12th St,New York,NY,"French Restaurants, Restaurants",10014
-879207f88fe1f11af31e250411c4e9ff,Hooplah Frozen Yogurt,3229B Southwestern Blvd,Orchard Park,NY,"Yogurt, Ice Cream & Frozen Desserts, Restaurants",14127
-59c4e73f54781155c3ce929a999e5100,New York Sub Exchange,25 Lakeridge Dr,Orchard Park,NY,"Delicatessens, Restaurants",14127
-63d2464d9fea5e988be1379a203c9847,Luce Restaurant & Enoteca,2014 Broadway,New York,NY,"Breakfast, Brunch & Lunch Restaurants, Take Out Restaurants, Italian Restaurants, Seafood Restaurants, Restaurant Delivery Service, Family Style Restaurants, Mediterranean Restaurants, Restaurants",10023
-7cca2357ca32a67e25411077f7957d24,Peet's Coffee & Tea,651 Dick Rd,Depew,NY,"Coffee & Tea, Coffee & Espresso Restaurants, Coffee Shops, Restaurants",14043
-828806b2b0cf639a7be4dd8f45d29270,Dunkin' Donuts,55 Crosspoint Pkwy,Getzville,NY,"Bakeries, Restaurants, Donut Shops, Coffee & Espresso Restaurants, Bagels",14068
-ab5927c07cff5634c916eac2c268e8df,Biggz Pizza & Subs,6348 Transit Rd Ste 1,Depew,NY,"Pizza, Delicatessens, Restaurants",14043
-5fdebdb59f6a76c5f2c1bdd21088f95a,Rocko's Pizza House,3575 Walden Ave,Lancaster,NY,"Pizza, Restaurants",14086
-f1fd70b8cd1ba7726b6f5943b27ea522,Tim Horton's,9220 Main St,Clarence,NY,"Restaurants, Coffee Shops, Coffee & Espresso Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14031
-dc8d797397f16372896726dab5494b87,Tim Horton's,2190 Niagara Falls Blvd,Tonawanda,NY,"Restaurants, Coffee & Espresso Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14150
-f974c1bef2a4ccf1157679611db44071,Coffee Culture,5590 Main St,Williamsville,NY,"Coffee & Espresso Restaurants, Coffee & Tea, Coffee Shops, Restaurants",14221
-b7c5e96375a1786b78afa78c17d16b23,Brauer's Restaurant,6612 Campbell Blvd,Lockport,NY,"Family Style Restaurants, Restaurants",14094
-fbd7af2e1ce53939821443ae9c70d47b,Two Guys Pizza,3987 Walden Ave,Lancaster,NY,"Pizza, Take Out Restaurants, Caterers, Restaurants",14086
-39360d20ef1b3154f9c410b10e6ec252,Higgis Dining Room,100 Whitehaven Rd,Grand Island,NY,Restaurants,14072
-deae13e8b75be5cad783eb973ca826aa,Tim Horton's,1308 Niagara Falls Blvd,Tonawanda,NY,"Restaurants, Coffee & Espresso Restaurants, Coffee Shops, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14150
-2afe30e9842c0ecf7dd7e762a4d5dc6a,Bauer's Supreme Pizza,2990 Union Rd,Cheektowaga,NY,"Pizza, Restaurants",14227
-d3f329d9aacec72522a50e1b5a7ec195,Coffee Culture Sheridan,2631 Sheridan Dr,Tonawanda,NY,"Coffee & Espresso Restaurants, Coffee Shops, Restaurants",14150
-47f123d09c3e3e74e89d7de1457ffe46,Tim Horton's,4066 Lake Shore Rd,Hamburg,NY,"Coffee Shops, Coffee & Espresso Restaurants, Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14075
-832561f1c8059ea6a544f35f37bd59fd,Pesci's Pizza,8065 Main St,Williamsville,NY,"Pizza, Restaurants",14221
-3f8463eb2444d1d15f0c2e3f388ce48f,Roadhouse Sound & Karaoke,6164 Bunting Rd,Orchard Park,NY,Restaurants,14127
-3b69f990f18e104f604eb65a9a8991be,Talk Of The Town,1604 Niagara Falls Blvd,Tonawanda,NY,"Mexican Restaurants, Restaurants",14150
-b994290250d93edc9a36ae7030c10a23,Augie's Sunrise Diner,8207 Niagara Falls Blvd,Niagara Falls,NY,"American Restaurants, Coffee Shops, Restaurants",14304
-56acaf94c0f21346d773e49e1e617400,Pino's Pizza,3698 Abbott Rd,Orchard Park,NY,"Pizza, Caterers, Banquet Halls & Reception Facilities, Restaurants",14127
-2d228527f1af2389b73849af9d7f311b,Polish Villa,2954 Union Rd,Cheektowaga,NY,"Continental Restaurants, Restaurants",14227
-77240f9228a614e757c3e7d7ff29b72a,Olympia Family Restaurant,3312 Niagara Falls Blvd,North Tonawanda,NY,"Family Style Restaurants, Breakfast, Brunch & Lunch Restaurants, Restaurants",14120
-94dcc008fafbe9535d34cc7dceb5714f,Santora's Pizza Pub & Grill,7800 Transit Rd.,Williamsville,NY,"Pizza, Bars, Restaurants",14221
-25516f9b3cc186c6f5eba9456840de85,Dino's Pizzeria & Restaurant,5952 Seneca St,Elma,NY,"Pizza, Restaurants",14059
-7d323da36f3d28edecd950203a2f9dc5,Tim Horton's,3239 Abbott Rd,Orchard Park,NY,"Restaurants, Coffee Shops, Coffee & Espresso Restaurants, Coffee & Tea, Breakfast, Brunch & Lunch Restaurants",14127
-a4823fbd772384ad8661b9d1a2de2bf1,Heidi's Hideaway Restaurant,5833 Camp Rd,Hamburg,NY,Restaurants,14075
-b49d6e53c0068ca59a58c26a600c03a7,Rocky's Island Pizza,2488 Grand Island Blvd Ste 2,Grand Island,NY,"Pizza, Restaurants",14072
-79014fd0cbb920e50ee325a6055a8781,The Deli Shoppe,5333 Transit Rd,Depew,NY,"Delicatessens, Restaurants",14043
-ae8fa14f45e1f8e4d8673a99e844b3bd,Lotus Express,1938 Military Rd,Niagara Falls,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",14304
-63f67bf26db881a34f422b95a14c4773,The Skyline Hotel New York City,725 10th Ave,New York,NY,"Motels, Corporate Lodging, Hotels, Lodging, Restaurants",10019
-b8381b74f70866f1b276a90467c30fc0,Fortunatos Deli,6472 Southwestern Blvd,Lake View,NY,"Delicatessens, Restaurants",14085
-17018d63c00efca519b93f49e3fe5890,The Deli Shoppe,4730 Broadway,Depew,NY,"Delicatessens, Restaurants",14043
+Unique_id,Name,Street,City,State,Categories,Zip_Code,borough,neighborhood
+e64c7471b73e44fc6e6a50e21ae25cac,Pasquale Rigoletto Restaurant,2311 Arthur Ave,Bronx,NY,"Family Style Restaurants, Italian Restaurants, Fine Dining Restaurants, Restaurants",10458,Bronx,Bronx Park and Fordham
+2ecbf6dcad95243db511c56ae036fc1e,Tout-VA-Bien Restaurant,311 W 51st St,New York,NY,"Continental Restaurants, French Restaurants, Family Style Restaurants, Restaurants",10019,Manhattan,Chelsea and Clinton
+a44f0eab633ae805e1a70640356abc90,Circle West Diner & Cafe,313 W 57th St,New York,NY,"Family Style Restaurants, Take Out Restaurants, American Restaurants, Breakfast, Brunch & Lunch Restaurants, Caterers, Restaurants",10019,Manhattan,Chelsea and Clinton
+efc924bbc4eaee5a85f1ff156403d7de,Q2 Thai,788 9th Ave Frnt A,New York,NY,"Thai Restaurants, Asian Restaurants, Take Out Restaurants, Family Style Restaurants, Restaurants",10019,Manhattan,Chelsea and Clinton
+1ff0cbe766b1524c8e3eabeefc9613a3,Fuji Japanese Restaurant,238 W 56th St,New York,NY,"Japanese Restaurants, Take Out Restaurants, Chinese Restaurants, Sushi Bars, Thai Restaurants, Restaurant Delivery Service, Caterers, Asian Restaurants, Mongolian Restaurants, Family Style Restaurants, Restaurants",10019,Manhattan,Chelsea and Clinton
+333338c4bb5d77921d20cc6201b86091,Cassidy's Irish Pub & Restaurant,65 W 55th St,New York,NY,"Bar & Grills, Bars, Breakfast, Brunch & Lunch Restaurants, Night Clubs, Taverns, Take Out Restaurants, Restaurants",10019,Manhattan,Chelsea and Clinton
+c9fd85e52f233ebea6eb85466939220c,The Great American Health Bar,35 W 57th St,New York,NY,"American Restaurants, Bars, Pizza, Sandwich Shops, Health Food Restaurants, Take Out Restaurants, Caterers, Restaurants",10019,Manhattan,Chelsea and Clinton
+ba44015a95272d8e05eed05baaba3eb5,Lincoln Park Bar & Grill,867 9th Ave,New York,NY,"Bar & Grills, Bars, Taverns, Night Clubs, Take Out Restaurants, Seafood Restaurants, Hamburgers & Hot Dogs, Restaurants",10019,Manhattan,Chelsea and Clinton
+0e492d42f5382fe170fa5fbbecdb3c0c,Real Kung Fu Little Steamed Buns Ramen,811 8th Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10019,Manhattan,Chelsea and Clinton
+9cca014f661a0ef5d07b79772189a338,El Centro,824 9th Ave,New York,NY,"Mexican Restaurants, Take Out Restaurants, Breakfast, Brunch & Lunch Restaurants, Restaurant Delivery Service, Latin American Restaurants, Restaurants",10019,Manhattan,Chelsea and Clinton
+4a3df4d6ce555b62c40275bf18eb0bd9,The Athletic And Swim Club,787 7th Ave Concourse Level,New York,NY,"Swimming Instruction, Health Clubs, Beauty Salons, Private Clubs, Golf Courses, Yoga Instruction, Personal Fitness Trainers, Day Spas, Exercise & Physical Fitness Programs, Martial Arts Instruction, Health Resorts, Fine Dining Restaurants, Sports Instruction, Physical Fitness Consultants & Trainers, Restaurants",10019,Manhattan,Chelsea and Clinton
+63f67bf26db881a34f422b95a14c4773,The Skyline Hotel New York City,725 10th Ave,New York,NY,"Motels, Corporate Lodging, Hotels, Lodging, Restaurants",10019,Manhattan,Chelsea and Clinton
+0f3042dbd9a1ae052b9b38d547d10fef,Organique,110 E 23rd St,New York,NY,"American Restaurants, Take Out Restaurants, Sandwich Shops, Hamburgers & Hot Dogs, Bagels, Restaurants",10010,Manhattan,Gramercy Park and Murray Hill
+a4e67c38bffd3fe58f76986455ce2ff2,Via Emilia,47 E 21st St,New York,NY,"Italian Restaurants, Mediterranean Restaurants, Seafood Restaurants, Restaurants",10010,Manhattan,Gramercy Park and Murray Hill
+365f51e0d76d0104202a10013ef1e116,Viang Ping Palace,210 E 23rd St,New York,NY,"Thai Restaurants, Family Style Restaurants, Asian Restaurants, Restaurants",10010,Manhattan,Gramercy Park and Murray Hill
+58e51a252a2192a2018cedde15fc8045,Silk Rd Tavern,46 W 22nd St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10010,Manhattan,Gramercy Park and Murray Hill
+73e9c292062b061ba0332b4a96bbf193,Maysville,17 W 26th St,New York,NY,"American Restaurants, Bars, Restaurants",10010,Manhattan,Gramercy Park and Murray Hill
+7d4f82b6213da99caa81469ca772d3bf,Taste Good Restaurant,18 W 25th St,New York,NY,"Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10010,Manhattan,Gramercy Park and Murray Hill
+37ff4c3951bbadf5e15bae3b8097183d,Yum 168 Inc,162 E 25th St,New York,NY,"Chinese Restaurants, Fast Food Restaurants, Restaurants",10010,Manhattan,Gramercy Park and Murray Hill
+5525a8423a9dbb83bdffb4f287e6a608,U Like,4926 Broadway,New York,NY,"Chinese Restaurants, Family Style Restaurants, Seafood Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10034,Manhattan,Inwood and Washington Heights
+cd52b968ceb960b5cddeb9b92d7fe5ff,Papasito Mexican Grill,4761 Broadway,New York,NY,"Mexican Restaurants, Bar & Grills, Latin American Restaurants, Restaurants",10034,Manhattan,Inwood and Washington Heights
+4219c502dfdbaca94f851ea00dd17bba,United Sea Food Corp,3835 9th Ave,New York,NY,"Seafood Restaurants, Fish & Seafood Markets, Restaurants",10034,Manhattan,Inwood and Washington Heights
+0b4ca963fc3368ec2fbddadec014300f,Ten-Tan Chinese Restaurant,3864 10th Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Family Style Restaurants, Restaurants",10034,Manhattan,Inwood and Washington Heights
+24a089b092b47212c9111bdeb855e69b,Lin Xian Biao,595 W 207th St,New York,NY,"Chinese Restaurants, Restaurants",10034,Manhattan,Inwood and Washington Heights
+dd3ef1193777e485495c61ef45266bfe,Ogawa Cafe,36 E 4th St,New York,NY,"Sushi Bars, Japanese Restaurants, Asian Restaurants, Take Out Restaurants, Family Style Restaurants, Restaurants",10003,Manhattan,Lower East Side
+722b2d6911dd4a1a5f30254e7e3d3d2f,America,9 E 18th St,New York,NY,"American Restaurants, Bars, Restaurants",10003,Manhattan,Lower East Side
+46b292f8111373ac9c543363db217964,Windows On India Restaurant,97 1st Ave,New York,NY,"Indian Restaurants, Asian Restaurants, Bars, Breakfast, Brunch & Lunch Restaurants, Restaurants",10003,Manhattan,Lower East Side
+2c77ab027ad808cb4dc1c84ba0876d52,Quantum Leap Natural Foods Restaurant,203 1st Ave,New York,NY,"Family Style Restaurants, Restaurants",10003,Manhattan,Lower East Side
+b0b6a377d04bf72cf3a3865d3d171f4e,Devi,8 E 18th St,New York,NY,"Indian Restaurants, Asian Restaurants, Middle Eastern Restaurants, Take Out Restaurants, Caterers, Restaurants",10003,Manhattan,Lower East Side
+55571b29b6a9e2218df453059818eef1,Sharaku,14 Stuyvesant St,New York,NY,"Japanese Restaurants, Asian Restaurants, Restaurants",10003,Manhattan,Lower East Side
+868df6f97e052752fd9fd0dcbafa6eed,Mj Armstrongs,329 1st Ave,New York,NY,"American Restaurants, Restaurants",10003,Manhattan,Lower East Side
+ece9ff2d2a844d73ceda27a47b79d8b8,Gyu-Kaku,34 Cooper Sq,New York,NY,"Restaurants, Japanese Restaurants, Asian Restaurants",10003,Manhattan,Lower East Side
+ac630a0218c7e5b4b8cffc5f4d2daf80,Brick Lane Curry House,306 E 6th St,New York,NY,"Indian Restaurants, Take Out Restaurants, Restaurant Delivery Service, Caterers, Middle Eastern Restaurants, Asian Restaurants, Restaurants",10003,Manhattan,Lower East Side
+591ed954bce2ae14c5dc8ec6a1bc448f,Lantern Thai Kitchen,311 2nd Ave,New York,NY,"Thai Restaurants, Asian Restaurants, Breakfast, Brunch & Lunch Restaurants, Caterers, Restaurants",10003,Manhattan,Lower East Side
+0c7b533d20ea2b27a1e666eaa0e681f3,Lil' Frankies Pizza,19 1st Ave,New York,NY,"Pizza, Italian Restaurants, Take Out Restaurants, Caterers, Bar & Grills, Restaurants",10003,Manhattan,Lower East Side
+02d2dd67458e59e2ad82f5587db8edc6,Candela,92 2nd Ave Frnt 1,New York,NY,"Italian Restaurants, Bars, Breakfast, Brunch & Lunch Restaurants, Caterers, Restaurants",10003,Manhattan,Lower East Side
+be4f18367d4147588a0bd52e0caebf49,211 New Taco Grill,211 E 14th St,New York,NY,"Mexican Restaurants, Latin American Restaurants, Take Out Restaurants, Bar & Grills, Restaurants",10003,Manhattan,Lower East Side
+0e2a899c4993002516e25e68182f7ad6,Pukk,71 1st Ave,New York,NY,"Vegetarian Restaurants, Take Out Restaurants, Thai Restaurants, Breakfast, Brunch & Lunch Restaurants, Vegan Restaurants, Asian Restaurants, Health Food Restaurants, Delicatessens, Restaurants",10003,Manhattan,Lower East Side
+d46118e65241cce43b2c7047a04d9d97,Sobaya,229 E 9th St,New York,NY,"Japanese Restaurants, Asian Restaurants, Family Style Restaurants, Restaurants",10003,Manhattan,Lower East Side
+1a6e2084c305b91f8d691c17d7c7fe30,Hawkers,225 E 14th St,New York,NY,"Sushi Bars, Japanese Restaurants, Thai Restaurants, Asian Restaurants, Restaurants",10003,Manhattan,Lower East Side
+f2207d8bd648fb98f80d5575566513d8,Grand Sichuan International St Mark's,21 Saint Marks Pl,New York,NY,"Chinese Restaurants, Asian Restaurants, Japanese Restaurants, Restaurants",10003,Manhattan,Lower East Side
+170b33c6bcb0ee06e72d544e279eb846,Knickerbocker Bar And Grill,33 University Pl,New York,NY,"Bar & Grills, Bars, Steak Houses, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Caterers, Taverns, Restaurants",10003,Manhattan,Lower East Side
+37d9b20f51ce711d73ccdf7edbbec620,Apna Masala Indian Cuisine,344 E 6th St,New York,NY,"Indian Restaurants, Restaurants",10003,Manhattan,Lower East Side
+c64e37c482c8606726971423aa2dafb5,Goodburger,636 Lexington Ave,New York,NY,"American Restaurants, Take Out Restaurants, Hamburgers & Hot Dogs, Breakfast, Brunch & Lunch Restaurants, Restaurants",10022,Manhattan,Gramercy Park and Murray Hill
+e13ebcde48a64a5be397ae0eca813a95,Spoons Squared INC,235 E 53rd St,New York,NY,"Seafood Restaurants, Restaurants",10022,Manhattan,Gramercy Park and Murray Hill
+6ad007c9d72d1a8492c9e7d91406c125,Dong Ting Lake,352 E 55th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10022,Manhattan,Gramercy Park and Murray Hill
+5f5039df593343d6c9bc492a926d8176,New Hong Wong Restaurant Inc,207 E 59th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10022,Manhattan,Gramercy Park and Murray Hill
+656c85a383022db9b78322769d832ef7,Peking Duck House,236 E 53rd St,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurant Delivery Service, Asian Restaurants, Restaurants",10022,Manhattan,Gramercy Park and Murray Hill
+da862b17b17917bae42efc893ae1ae68,Townhouse Diner,696 2nd Ave,New York,NY,"Coffee Shops, Italian Restaurants, Family Style Restaurants, American Restaurants, Sandwich Shops, Hamburgers & Hot Dogs, Health Food Restaurants, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+4f63708ee8bb6492c067aeef95cc07f8,Ravagh Persian Grill,11 E 30th St Frnt 1,New York,NY,"Mediterranean Restaurants, Family Style Restaurants, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+7a630e107242b3dc50f600036b090192,Babylon Hookah Bar & Lounge,208 E 34th St,New York,NY,"Cocktail Lounges, Bars, Mediterranean Restaurants, Middle Eastern Restaurants, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+62eeb9d306ddd51690720bef153ee4ea,Madison Bistro,238 Madison Ave,New York,NY,"French Restaurants, Fine Dining Restaurants, Breakfast, Brunch & Lunch Restaurants, Continental Restaurants, Sandwich Shops, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+e2997ccc57a353790f84c33c6a390ed6,Libretto's Pizza,546 3rd Ave,New York,NY,"Pizza, Take Out Restaurants, Italian Restaurants, Caterers, American Restaurants, Sandwich Shops, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+2dad7e0fbfff7d6541a439e3bf152380,Eden Wok,43 E 34th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Japanese Restaurants, Take Out Restaurants, Caterers, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+2a52457ab2215b277230286d0bfe3e94,Panda East Restaurant Inc,536 3rd Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Family Style Restaurants, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+ce0e54925a2c41cb5bb759c9aecc3e8e,Abby Chinese Cuisine,536 3rd Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+c39d755ed492dac9ab943679188ad2f1,Euodo Ishihama,319 5th Ave,New York,NY,"Japanese Restaurants, Sushi Bars, Seafood Restaurants, Restaurants",10016,Manhattan,Gramercy Park and Murray Hill
+808d5f307cee688bb368230a4b5e26de,Beacon Wines & Spirits,2120 Broadway,New York,NY,"Wine, Liquor Stores, Restaurants",10023,Manhattan,Upper West Side
+2b231b1226a2cbbe491a89bb55bd1a95,Grand Sichuan,307 Amsterdam Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10023,Manhattan,Upper West Side
+63d2464d9fea5e988be1379a203c9847,Luce Restaurant & Enoteca,2014 Broadway,New York,NY,"Breakfast, Brunch & Lunch Restaurants, Take Out Restaurants, Italian Restaurants, Seafood Restaurants, Restaurant Delivery Service, Family Style Restaurants, Mediterranean Restaurants, Restaurants",10023,Manhattan,Upper West Side
+8b22fd6266cd988a06056ff312a3c2b7,Hell's Kitchen,679 9th Ave,New York,NY,"Mexican Restaurants, Bar & Grills, Breakfast, Brunch & Lunch Restaurants, Latin American Restaurants, Restaurants",10036,Manhattan,Chelsea and Clinton
+6e43511aaffea8cb44882c3b85a9e9b6,Robert's Steakhouse,603 W 45th St,New York,NY,"Night Clubs, Adult Entertainment, Restaurants",10036,Manhattan,Chelsea and Clinton
+3a64a369694238b3db3c70f9b1c26190,Aoki,234 W 48th St,New York,NY,"Japanese Restaurants, Sushi Bars, Health Food Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10036,Manhattan,Chelsea and Clinton
+c1319a91d70cb6eaf7d9ea8995850779,Strip House Midtown,15 W 44th St,New York,NY,"Steak Houses, Caterers, Seafood Restaurants, Restaurants",10036,Manhattan,Chelsea and Clinton
+1364a9ca3cc84be790a54645fd558df4,China Daily Distribution Corp,1500 Broadway,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10036,Manhattan,Chelsea and Clinton
+f2ef3fce6cbc2b038312bd0c1f8bfe02,Lattanzi Ristorante,361 W 46th St,New York,NY,"Italian Restaurants, Fine Dining Restaurants, Breakfast, Brunch & Lunch Restaurants, Mediterranean Restaurants, Restaurants",10036,Manhattan,Chelsea and Clinton
+ba60b1a14ebe21684b52788f72f9f38a,Ii Punto Ristorante,509 9th Ave,New York,NY,"Italian Restaurants, Restaurants",10018,Manhattan,Chelsea and Clinton
+048869f1be58823e7bb35acc3dad2385,Ben's,209 W 38th St,New York,NY,"Delicatessens, Restaurants, Family Style Restaurants, Kosher Restaurants, Take Out Restaurants, Caterers",10018,Manhattan,Chelsea and Clinton
+b087f6ffc06d6e7580453f05b10e4ff8,Blaggards Pub & Restaurant,8 W 38th St,New York,NY,"American Restaurants, Bars, Steak Houses, Taverns, Cocktail Lounges, Bar & Grills, Irish Restaurants, Hamburgers & Hot Dogs, Take Out Restaurants, Restaurants",10018,Manhattan,Chelsea and Clinton
+ccdd6033886d89877173abd267562e71,Strand,33 W 37th St,New York,NY,"American Restaurants, Bars, Cocktail Lounges, Fine Dining Restaurants, Bar & Grills, Breakfast, Brunch & Lunch Restaurants, Night Clubs, Restaurants",10018,Manhattan,Chelsea and Clinton
+0662b476bfa63151587f5369df32491c,Aki Sushi West,128 W 36th St,New York,NY,"Sushi Bars, Japanese Restaurants, Health Food Restaurants, Asian Restaurants, Chinese Restaurants, Restaurants",10018,Manhattan,Chelsea and Clinton
+a5f52872a4786d770de7ce8d37a0ba41,Wok To Walk,570 8th Ave,New York,NY,"Chinese Restaurants, Restaurants",10018,Manhattan,Chelsea and Clinton
+0efc2dc0c1a2f01a8ccd1e3cfdb187be,Savour Sichuan,108 W 39th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10018,Manhattan,Chelsea and Clinton
+e6c8cb3c88218e34f5538433f9ae04ea,Chopstick House,130 W 36th St,New York,NY,"Chinese Restaurants, Asian Restaurants, Japanese Restaurants, Sushi Bars, Restaurants",10018,Manhattan,Chelsea and Clinton
+f07298dbb20372d37ab02c2a0610b611,The Australian,20 W 38th St,New York,NY,"Sports Bars, Restaurants, Bar & Grills, Cocktail Lounges, Employment Agencies, Bars",10018,Manhattan,Chelsea and Clinton
+05be9c55fccd39d14284b9572a6b4770,Nanni's Restaurant,146 E 46th St,New York,NY,"Family Style Restaurants, Italian Restaurants, Mediterranean Restaurants, Restaurants",10017,Manhattan,Gramercy Park and Murray Hill
+cc60b05dd5944308f05d072ac85e52e9,Mc Faddens Restaurant & Bar,800 2nd Ave,New York,NY,"American Restaurants, Bars, Family Style Restaurants, Take Out Restaurants, Caterers, Brew Pubs, Sports Bars, Restaurants",10017,Manhattan,Gramercy Park and Murray Hill
+286b5c9fbbb6a2b6e45f3ef212813f12,Bukhara Grill (indian Spice Rave),217 E 49th St,New York,NY,"Indian Restaurants, Caterers, Take Out Restaurants, Bar & Grills, Middle Eastern Restaurants, Asian Restaurants, Vegetarian Restaurants, Health Food Restaurants, Restaurants",10017,Manhattan,Gramercy Park and Murray Hill
+17e84e3ed5a973a08c944c3406ef3b5d,Megu Midtown,845 United Nations Plz,New York,NY,"Japanese Restaurants, Asian Restaurants, Sushi Bars, Seafood Restaurants, Restaurants",10017,Manhattan,Gramercy Park and Murray Hill
+0f31e6d95bd686d80013edac1fae9fb2,S. Dynasty Restaurant,511 Lexington Ave Fl 2,New York,NY,"Thai Restaurants, Take Out Restaurants, Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Continental Restaurants, Restaurants",10017,Manhattan,Gramercy Park and Murray Hill
+5ff119d0a88e5a9b7e26af5d500b9a16,Cipriani Dolci,89 E 42nd St,New York,NY,"Italian Restaurants, Bar & Grills, Restaurants",10017,Manhattan,Gramercy Park and Murray Hill
+c21d3f0f36591628a29580533fa54c2c,Pietro's,232 E 43rd St,New York,NY,"Italian Restaurants, Family Style Restaurants, Mediterranean Restaurants, Fine Dining Restaurants, Steak Houses, Seafood Restaurants, Breakfast, Brunch & Lunch Restaurants, Take Out Restaurants, Restaurants",10017,Manhattan,Gramercy Park and Murray Hill
+6d800d44e159cba2cc3cccae8858a48a,Maggie's Place,21 E 47th St,New York,NY,"Seafood Restaurants, Bars, Night Clubs, Take Out Restaurants, Irish Restaurants, Breakfast, Brunch & Lunch Restaurants, Restaurants",10017,Manhattan,Gramercy Park and Murray Hill
+ccca160be08c3c7d37536d7dcfb777f8,Lolita's,57 Malcolm X Blvd,New York,NY,"Mexican Restaurants, Take Out Restaurants, Caterers, Family Style Restaurants, Latin American Restaurants, Restaurants",10026,Manhattan,Central Harlem
+7609845a5611ae487ef3615552da6606,Metro Diner,2641 Broadway Ste 1,New York,NY,"American Restaurants, Take Out Restaurants, Caterers, Coffee Shops, Sandwich Shops, Hamburgers & Hot Dogs, Health Food Restaurants, Chinese Restaurants, Asian Restaurants, Restaurants",10025,Manhattan,Upper West Side
+589f5521c6932fbd15fdccfd093faa56,Aangan,2701 Broadway,New York,NY,"Indian Restaurants, Middle Eastern Restaurants, Asian Restaurants, Breakfast, Brunch & Lunch Restaurants, Take Out Restaurants, Caterers, Restaurants",10025,Manhattan,Upper West Side
+399636a828f3886b9e6fa3417169a0b2,Strand Diner,208 W 96th St,New York,NY,"American Restaurants, Caterers, Coffee Shops, Restaurants",10025,Manhattan,Upper West Side
+0d8dd28d4968d3e1f00dfb3736e51aff,Zhong Hua Restaurant,23 W 100th St,New York,NY,"Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10025,Manhattan,Upper West Side
+edfd4ecbb0153aafcec20e853c532e13,Morton's The Steakhouse,551 E 5th St,New York,NY,"Steak Houses, Restaurants",10009,Manhattan,Lower East Side
+ce655f6cea9329b5d8293003838dad40,Horus Cafe & Kebab House,93 Avenue B,New York,NY,"Hookah Bars, Mediterranean Restaurants, African Restaurants, Middle Eastern Restaurants, Restaurants",10009,Manhattan,Lower East Side
+ac1cb89c2d8803b7e13813d135443b1e,The Cardinal Restaurant,234 E 4th St,New York,NY,"Barbecue Restaurants, Take Out Restaurants, Soul Food Restaurants, Family Style Restaurants, Restaurants",10009,Manhattan,Lower East Side
+1a9750db4731b6b6368c23f53c7a6f09,Sake Bar Satsko,202 E 7th St,New York,NY,"Sushi Bars, Japanese Restaurants, Asian Restaurants, Bars, Restaurants",10009,Manhattan,Lower East Side
+83117ccb565534bfcd3002a920f59bcb,Westville East,173 Avenue A,New York,NY,"American Restaurants, Take Out Restaurants, Caterers, Hamburgers & Hot Dogs, Bar & Grills, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Restaurant Delivery Service, Restaurants",10009,Manhattan,Lower East Side
+fba2e36d464bd3439e88a7cc1a61c7e2,New Dobule Dragon II Rstrnt,37 Avenue C,New York,NY,Chinese Restaurants,10009,Manhattan,Lower East Side
+e3f73b233303be92d765c2ba04bd72bf,Mafra Bar And Restaurant,24 1st Ave,New York,NY,"Family Style Restaurants, Restaurants",10009,Manhattan,Lower East Side
+00634498eea286235a408c3aabcd8e4e,Nai Tapas Bar,174 1st Ave,New York,NY,"Tapas, Restaurants",10009,Manhattan,Lower East Side
+f1ecc17a18b77d160b612fdd66e3f244,Uskudar Turkish Restaurant,1405 2nd Ave,New York,NY,"Middle Eastern Restaurants, Mediterranean Restaurants, Health Food Restaurants, Family Style Restaurants, Take Out Restaurants, Caterers, Asian Restaurants, Restaurants",10021,Manhattan,Upper East Side
+d30bf9becf0a52fbe121a2be055e0497,Beach Cafe,1326 2nd Ave,New York,NY,"American Restaurants, Italian Restaurants, Coffee Shops, Restaurants",10021,Manhattan,Upper East Side
+95582b120e5c556f8945c6ca02589f03,Candle Cafe,1307 3rd Ave,New York,NY,"Cafeterias, Breakfast, Brunch & Lunch Restaurants, Caterers, Take Out Restaurants, Family Style Restaurants, Vegan Restaurants, Restaurants",10021,Manhattan,Upper East Side
+aff1a067e89a54cf61ee5ea5816ca328,Blue Moon Mexican Cafe,1444 1st Ave,New York,NY,"Mexican Restaurants, Seafood Restaurants, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Latin American Restaurants, Restaurants",10021,Manhattan,Upper East Side
+dc31a35367c496916a2e3a8732be0f59,Szechuan Gourmet,1345 2nd Ave,New York,NY,"Chinese Restaurants, Restaurants",10021,Manhattan,Upper East Side
+47b139741af80fd1fe52f444fb2fb21a,The Sunburnt Calf,226 W 79th St,New York,NY,"Take Out Restaurants, American Restaurants, Bar & Grills, Breakfast, Brunch & Lunch Restaurants, Restaurant Delivery Service, Restaurants",10024,Manhattan,Upper West Side
+42570d9c6aabb059a92e411f13cfea60,Prosperity Dumpling,46 Eldridge St # 1,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurants",10002,Manhattan,Lower East Side
+ebf58386899d20512768c01ef7472a2e,Congee Village,100 Allen St # 1,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10002,Manhattan,Lower East Side
+21efcce4b7d5b1304e832211b5b21bbc,Orchard Restaurant,162 Orchard St,New York,NY,"American Restaurants, Italian Restaurants, Restaurants",10002,Manhattan,Lower East Side
+3a793b8c05d5c306062b9c389daf9df1,fortune star,84 eldridge st,new york,NY,Chinese Restaurants,10002,Manhattan,Lower East Side
+327ac99ce4e64cbf8ad041d410bfa1b1,88 Palace Restaurant,88 E Broadway,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10002,Manhattan,Lower East Side
+fdc558de531d6ef2f6349866112724c5,American Restaurant Design Inc,171 Bowery Frnt 1,New York,NY,"Family Style Restaurants, Restaurants",10002,Manhattan,Lower East Side
+fd418ac720e320141182332039dc93fe,Chang Wang Restaurant Inc,38 Allen St,New York,NY,"Family Style Restaurants, Take Out Restaurants, Restaurants",10002,Manhattan,Lower East Side
+6a8294d20240b2167c16045d8fa08b56,Hou Yi Hou Pot,92 Hester St,New York,NY,"Asian Restaurants, Restaurants",10002,Manhattan,Lower East Side
+5f9359f57c325b1aab1ba2be36ef5f49,Kamkuo Seafood Corp,124 E Broadway,New York,NY,"Seafood Restaurants, Fish & Seafood-Wholesale, Restaurants",10002,Manhattan,Lower East Side
+4df250e0a078b74779f7f6a2b819ca4d,Won Ton Specialist Inc,50 Allen St,New York,NY,"Asian Restaurants, Chinese Restaurants, Restaurants",10002,Manhattan,Lower East Side
+77cb446dcfe852497374b778ce1f7736,Happy Wok Restaurant,158 Delancey St,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10002,Manhattan,Lower East Side
+20cee4f6257b83bc5ec4084ef591ca42,Tiny Fork,167 Orchard St,New York,NY,"Seafood Restaurants, Restaurants",10002,Manhattan,Lower East Side
+c2ae21fe95f627cb74decb6c55288a41,Uptown Cottage,1748 2nd Ave,New York,NY,"Sushi Bars, Chinese Restaurants, Take Out Restaurants, Japanese Restaurants, Asian Restaurants, Restaurants",10128,Manhattan,Upper East Side
+40319aad6b09d45d8829f8b9108fcfb5,New Sunny East 88,1680 1st Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Caterers, Family Style Restaurants, Restaurants",10128,Manhattan,Upper East Side
+38f4abf2a83a10935432486394ce661b,Noodle Fun,1744 1st Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10128,Manhattan,Upper East Side
+beace1154b4f88e84ccb5ec1101dac0c,RCL Enterprises,14122 Rockaway Blvd,Jamaica,NY,"Caterers, Restaurants, Take Out Restaurants, American Restaurants, Caribbean Restaurants",11436,Queens,Jamaica
+a2efa197af3ba3b2856aac0ee4e4026f,Alfanoose,8 Maiden Ln,New York,NY,"Middle Eastern Restaurants, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Restaurants",10038,Manhattan,Lower Manhattan
+595038d8253104365794023c2ae6ada4,Roxy's E W Diner,20 John St,New York,NY,"American Restaurants, Coffee Shops, Restaurants",10038,Manhattan,Lower Manhattan
+3c5a148f83dcae7183f1dfa23f09111c,Las Ramblas,170 W 4th St,New York,NY,"Spanish Restaurants, Mediterranean Restaurants, Restaurants",10014,Manhattan,Greenwich Village and Soho
+0018657d79af08d543b07676ecfc6dd1,Palma,28 Cornelia St,New York,NY,"Italian Restaurants, Fine Dining Restaurants, Mediterranean Restaurants, Breakfast, Brunch & Lunch Restaurants, Family Style Restaurants, Mexican Restaurants, Restaurants",10014,Manhattan,Greenwich Village and Soho
+187fa32e5cfaa08e42b538e731cb61e4,White Horse Tavern,567 Hudson St,New York,NY,"Taverns, Bars, American Restaurants, Restaurants",10014,Manhattan,Greenwich Village and Soho
+0773d2dffe501b744f79237d3430f80e,New King Chinese Food,304 W 14th St,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurant Delivery Service, Fast Food Restaurants, Restaurants",10014,Manhattan,Greenwich Village and Soho
+6134e948e162a7003d4de5f9ecb676dc,Bongo,395 West St,New York,NY,"Seafood Restaurants, American Restaurants, Bars, Cocktail Lounges, Restaurants",10014,Manhattan,Greenwich Village and Soho
+89e60c9b0c4af5da03663b19b20985c2,Paradou,8 Little West 12th St,New York,NY,"French Restaurants, Restaurants",10014,Manhattan,Greenwich Village and Soho
+b876b349bea466ef215fff187f961379,Peking Duck House,28 Mott St,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10013,Manhattan,Greenwich Village and Soho
+6dc1a16ea4ad32f6c2d65db468f0f798,M & M Market Deli,529 Broome St,New York,NY,"American Restaurants, Delicatessens, Take Out Restaurants, Sandwich Shops, Mexican Restaurants, Health Food Restaurants, Bar & Grills, Restaurants",10013,Manhattan,Greenwich Village and Soho
+b5421f378acc1939a5108b5ee0f1c888,P J's Of Little Italy,138 Mulberry St,New York,NY,"Italian Restaurants, Caterers, Family Style Restaurants, Mediterranean Restaurants, Restaurants",10013,Manhattan,Greenwich Village and Soho
+d5020ca96bbb1a663d0fd9798c591b40,Cafe China Group,451 Washington St,New York,NY,"Chinese Restaurants, Take Out Restaurants, Caterers, Restaurants",10013,Manhattan,Greenwich Village and Soho
+c613f88c91ecacff1ef35aefca57e1f8,Shanghai Asian Manor,21 Mott St,New York,NY,"Chinese Restaurants, Asian Restaurants, American Restaurants, Restaurants",10013,Manhattan,Greenwich Village and Soho
+c87b6a17ad0bef0013597898df05596c,Lets Eat Cantina,173 Mott St,New York,NY,"Mexican Restaurants, Latin American Restaurants, Italian Restaurants, Restaurants",10013,Manhattan,Greenwich Village and Soho
+5cc06b89b83fe886b063a828bdc33259,The East End Bar & Grill,1664 1st Ave,New York,NY,"Restaurants, Bar & Grills, Bars, Night Clubs, Brew Pubs, Taverns, Hamburgers & Hot Dogs",10028,Manhattan,Upper East Side
+fa423af69d5f51658b452d2eb4505898,Sandro's,306 E 81st St,New York,NY,"Italian Restaurants, Mediterranean Restaurants, Family Style Restaurants, Restaurants",10028,Manhattan,Upper East Side
+125da7860981ce202e2500b24f1364bf,Giovanni Venti Cinque Restaurant,25 E 83rd St Frnt 1,New York,NY,"Italian Restaurants, Mediterranean Restaurants, Seafood Restaurants, Restaurants",10028,Manhattan,Upper East Side
+f3ed06a94c2cd9f6a17883de7a39265f,China Taste,1570 2nd Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10028,Manhattan,Upper East Side
+b3208093252d6027d4373f3e34bb1383,That's Amore Pizzeria,1405 Saint Nicholas Ave,New York,NY,"Pizza, Take Out Restaurants, American Restaurants, Restaurants",10033,Manhattan,Inwood and Washington Heights
+f310bace95d98375783ea42929b6a580,No,825 W 181st St,New York,NY,"Chinese Restaurants, Restaurants",10033,Manhattan,Inwood and Washington Heights
+5756d678f6bc41d90fe57b26ffcb29b6,Blarney Stone,410 8th Ave Frnt 1,New York,NY,"Family Style Restaurants, Bars, Brew Pubs, Irish Restaurants, Taverns, Restaurants",10001,Manhattan,Chelsea and Clinton
+33dba96c3a9fab5da8f7ccc3f6804327,Nick & Stef's Steakhouse,9 Penn Plz,New York,NY,"Steak Houses, American Restaurants, Barbecue Restaurants, Restaurants",10001,Manhattan,Chelsea and Clinton
+176df705db00c70dfcce980d48749d07,9th Moon Chinese Take Out,338 9th Ave,New York,NY,"Chinese Restaurants, Take Out Restaurants, Fast Food Restaurants, Asian Restaurants, Family Style Restaurants, Restaurants",10001,Manhattan,Chelsea and Clinton
+7a570b4dec6b369191720c27bb740316,Chinatown Express,427 7th Ave,New York,NY,"Chinese Restaurants, Take Out Restaurants, Asian Restaurants, Restaurants",10001,Manhattan,Chelsea and Clinton
+bd76ffb211ed3ba08904aee6d238cc9e,African American Best Food Inc,410 Malcolm X Blvd Frnt 1,New York,NY,"African Restaurants, American Restaurants, Grocery Stores, Restaurants",10037,Manhattan,Central Harlem
+71993fc37e175c17402b477fd8a6bae9,Il Vagabondo Restnt,351 E 62nd St,New York,NY,"Family Style Restaurants, Italian Restaurants, Mediterranean Restaurants, Restaurants",10065,Manhattan,Upper East Side
+dc19d90ac7d830ab088e2b9286e111d1,La Terraza Restaurant Incorpor,3881 Broadway,New York,NY,"Family Style Restaurants, Take Out Restaurants, Restaurants",10032,Manhattan,Inwood and Washington Heights
+4e25642799518d47325ed417ec0210b9,New Star Kitchen Inc,2200 Amsterdam Ave,New York,NY,"Chinese Restaurants, Restaurants",10032,Manhattan,Inwood and Washington Heights
+e7f4335650cdae419e523094085c715d,China Moon,1946 1st Ave,New York,NY,"Chinese Restaurants, Take Out Restaurants, Restaurants",10029,Manhattan,East Harlem
+3320dbe760ee24d28bdaa05a837e1274,Great Wall,2234 1st Ave Frnt 1,New York,NY,"Chinese Restaurants, Seafood Restaurants, Asian Restaurants, Restaurants",10029,Manhattan,East Harlem
+f588fedf8e2514569729015185e1b04e,Nocciola Ristorante,237 E 116th St,New York,NY,"Italian Restaurants, Restaurants",10029,Manhattan,East Harlem
+6be407a3b9c02a6333ac25c81660c7cf,New Peking,132 Nagle Ave,New York,NY,"Chinese Restaurants, Restaurants",10040,Manhattan,Inwood and Washington Heights
+50352d34103b8e089cbde0c17a428017,Hang Lung Chinese Restaurant,1614 Saint Nicholas Ave,New York,NY,"Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Restaurants",10040,Manhattan,Inwood and Washington Heights
+17ba1905fa805b72fe50f7b5be1fbb3f,Fei Ming Chinese Restaurant,82 Nagle Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10040,Manhattan,Inwood and Washington Heights
+3c50cb07fd55a826d2f6c318a91a125c,King Dragon Two Inc,152 Nagle Ave,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10040,Manhattan,Inwood and Washington Heights
+f4db17033b55ea196fe4098118a85580,Chen Zeng Guan,2025 Adam Clayton Powell Jr Blvd,New York,NY,"Chinese Restaurants, Restaurants",10027,Manhattan,Central Harlem
+0f7ec8c077a8974d961b0f24aaf55625,Chuck E. Cheese's,280 Saint Nicholas Ave,New York,NY,"Pizza, Restaurants, Family Style Restaurants, Amusement Places & Arcades, Party Planning",10027,Manhattan,Central Harlem
+d948bd4e82add9e634911956c3060272,Sui,54 Spring St,New York,NY,"Japanese Restaurants, American Restaurants, Restaurants",10012,Manhattan,Greenwich Village and Soho
+7669be9a07170a4019a7be3659bbf4bf,Kopi,68 W 3rd St,New York,NY,"Asian Restaurants, Restaurants",10012,Manhattan,Greenwich Village and Soho
+b26aa2d9381cd68480fc03898161107c,Jing Hui,255 W 148th St,New York,NY,"Chinese Restaurants, Family Style Restaurants, Take Out Restaurants, Restaurants",10039,Manhattan,Central Harlem
+a8978808f1ad9347ca76d54897f558ea,Wo Hop Kitchen,2923 Frederick Douglass Blvd,New York,NY,"Chinese Restaurants, Asian Restaurants, Restaurants",10039,Manhattan,Central Harlem
+a7e00c2f2803c1bb9b3e9ce7bb34a582,Ho Lee Restaurant,2493 Adam Clayton Powell Jr Blvd,New York,NY,"Chinese Restaurants, Family Style Restaurants, Asian Restaurants, Restaurants",10030,Manhattan,Central Harlem
+19574fec568dc0dc488f5a68fbc08586,Underground Pizza,3 Hanover Sq,New York,NY,"Pizza, Italian Restaurants, Sandwich Shops, Bakeries, Restaurants",10004,Manhattan,Lower Manhattan
+dfc76a60c0a34ef3f1a3112872f1bea5,Georgio's Pizzeria,20 Beaver St,New York,NY,"Italian Restaurants, Pizza, Pasta, Sandwich Shops, Health Food Restaurants, Take Out Restaurants, Mediterranean Restaurants, Restaurants",10004,Manhattan,Lower Manhattan
+113f453663af8a16db92ef77808df936,Wok Express,2133 3rd Ave Frnt 1,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Restaurants",10035,Manhattan,East Harlem
+4ecfa94400429465d2efedada3c5cf66,Sammy's Noodle Shop & Grill,453 Avenue Of The Americas,New York,NY,"Chinese Restaurants, Asian Restaurants, Take Out Restaurants, Family Style Restaurants, Restaurant Delivery Service, Caterers, Bar & Grills, Restaurants",10011,Manhattan,Chelsea and Clinton
+3189fd4a96467c1cb00aaa52efdde4aa,Washington Square Hotel,103 Waverly Pl,New York,NY,"Hotels, Corporate Lodging, Lodging, Motels, Bed & Breakfast & Inns, Meeting & Event Planning Services, Restaurants",10011,Manhattan,Chelsea and Clinton
+01a684fcdbc9eca57ead08ce54257c3f,Toro Restaurant,1 Front St,Brooklyn,NY,"Sushi Bars, Take Out Restaurants, Seafood Restaurants, Bar & Grills, Family Style Restaurants, Restaurants",11201,Brooklyn,Northwest Brooklyn
+0b9aca5a718503e9c0f942d7de0fc041,Rebar,147 Front St,Brooklyn,NY,"American Restaurants, Bars, Cocktail Lounges, French Restaurants, German Restaurants, Night Clubs, Restaurants",11201,Brooklyn,Northwest Brooklyn
+45749a9a36d64b2991240c16420b3965,Pete's Downtown,2 Water St,Brooklyn,NY,"Italian Restaurants, Breakfast, Brunch & Lunch Restaurants, Caterers, Restaurants",11201,Brooklyn,Northwest Brooklyn
+451477c95b134d4671087e7c40b0a6a9,Caffe Buon Gusto,151 Montague St,Brooklyn,NY,"Coffee & Espresso Restaurants, Take Out Restaurants, Italian Restaurants, Seafood Restaurants, Breakfast, Brunch & Lunch Restaurants, Caterers, Coffee Shops, Health Food Restaurants, Cafeterias, Restaurants",11201,Brooklyn,Northwest Brooklyn
+d5524a9c32d2c426559dd2fafdebebdb,Tenda Asian Bistro,118 Montague St,Brooklyn,NY,"Thai Restaurants, Continental Restaurants, Japanese Restaurants, Sushi Bars, Asian Restaurants, Restaurants",11201,Brooklyn,Northwest Brooklyn
+6d5983f863bd00f31e475ae5930d225b,Bevacco,60 Henry St,Brooklyn,NY,"Family Style Restaurants, Italian Restaurants, Mediterranean Restaurants, Restaurants",11201,Brooklyn,Northwest Brooklyn
+8f33382c1fd0b35eb0b0ab9d9d793df4,Phils Crummy Corner,323 Columbia St,Brooklyn,NY,"Barbecue Restaurants, Bars, Bar & Grills, Restaurants, Latin American Restaurants, Sports Bars, Cocktail Lounges, Caterers",11231,Brooklyn,Northwest Brooklyn
+becf682a8e8193a7efe98ac2b95d8bd7,The Good Fork,391 Van Brunt St,Brooklyn,NY,"American Restaurants, Hamburgers & Hot Dogs, Restaurants",11231,Brooklyn,Northwest Brooklyn
